@@ -1,7 +1,6 @@
 fetch("json/technology.json")
   .then((res) => res.json())
   .then((data) => {
-    console.log(data);
     let output = "<div></div>";
     data.forEach(function (news) {
       output += `      

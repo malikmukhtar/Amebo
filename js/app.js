@@ -6,7 +6,6 @@ let req = new Request(url);
 fetch(req)
   .then((res) => res.json())
   .then((data) => {
-    console.log(data);
     let output = "<div></div>";
     data.news.forEach(function (news) {
       output += `
