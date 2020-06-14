@@ -1,263 +1,262 @@
 [
-      {
-        "source": {
-          "id": null,
-          "name": "Showbiz Cheat Sheet"
+     {
+        "source":{
+           "id":null,
+           "name":"ComicBook.com"
         },
-        "author": "Michelle Kapusta",
-        "title": "Prince Philip's Birthday: Things Older Than Queen Elizabeth II's Husband - Showbiz Cheat Sheet",
-        "description": "Prince Philip is celebrating a historic birthday. Here are a few things that were invented before the Duke of Edinburgh was born.",
-        "url": "https://www.cheatsheet.com/entertainment/prince-philips-birthday-things-older-than-queen-elizabeth-iis-husband.html/",
-        "urlToImage": "https://www.cheatsheet.com/wp-content/uploads/2019/11/Prince-Philip-1-1024x681.jpg",
-        "publishedAt": "2020-06-11T00:15:51Z",
-        "content": "Queen Elizabeth II’s husband, Prince Philip turned 99 years old on June 10 and is the longest-serving and oldest consort in history. He celebrated his historic birthday at Windsor Castle where he and… [+2928 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Daily Mail"
+        "author":"Jamie Lovett",
+        "title":"Star Wars: Dave Filloni Explains Away Order 66 Plot Hole - ComicBook.com",
+        "description":"Star Wars: The Clone Wars' last season progressed the series through the events to Star Wars: Revenge of the Sith. The show revealed how Ahsoka Tano managed to be an Order 66 survivor. Ahsoka also helped Captain Rex escape the programming that had been embedd…",
+        "url":"https://comicbook.com/tv-shows/news/star-wars-order-66-plot-hole-clone-wars-rebels-rex-ahsoka/",
+        "urlToImage":"https://media.comicbook.com/2020/06/star-wars-order-66-1224680-1280x0.jpeg",
+        "publishedAt":"2020-06-14T22:08:35Z",
+        "content":null
+     },
+     {
+        "source":{
+           "id":"fox-news",
+           "name":"Fox News"
         },
-        "author": "By Sarah Sotoodeh For Dailymail.com",
-        "title": "Kim Kardashian shares sweet snap of her four kids North, Saint, Chicago and Psalm: 'My whole heart' - Daily Mail",
-        "description": "Two days prior, Kim Kardashian shared a picture of her and husband Kanye West at dinner in London 2012 after she found out she was pregnant with daughter North.",
-        "url": "https://www.dailymail.co.uk/tvshowbiz/article-8407993/Kim-Kardashian-shares-sweet-snap-four-kids-North-Saint-Chicago-Psalm-heart.html",
-        "urlToImage": "https://i.dailymail.co.uk/1s/2020/06/10/22/29462570-0-image-a-51_1591823227795.jpg",
-        "publishedAt": "2020-06-11T00:14:50Z",
-        "content": "Two days prior, Kim Kardashian shared a picture of her and husband Kanye West at dinner in London 2012 after she found out she was pregnant with daughter North.\r\nEight years later, the entrepreneur a… [+2922 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Eonline.com"
+        "author":"Nate Day",
+        "title":"'Harry Potter' star Rupert Grint on JK Rowling's gender comments: 'Trans women are women. Trans men are men.' - Fox News",
+        "description":"Rupert Grint is the latest member of the \"Harry Potter\" family to respond to J.K. Rowling's recent comments on transgender individuals.",
+        "url":"https://www.foxnews.com/entertainment/harry-potter-rupert-grint-jk-rowling-gender-comments",
+        "urlToImage":"https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Rupert-Grint-JK-Rowling.jpg",
+        "publishedAt":"2020-06-14T22:05:17Z",
+        "content":"Rupert Grint is the latest member of the \"Harry Potter\" family to respond to J.K. Rowling's recent comments on transgender individuals.\r\nLast weekend, Rowling, 54, posted a tweet mocking an article t… [+2481 chars]"
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"Hollywood Reporter"
         },
-        "author": "Mike Vulpo",
-        "title": "Faith Stowers Says She Has Received Apology From Lala Kent - E! NEWS",
-        "description": "Faith Stowers is speaking out after Stassi Schroder and Kristen Doute were fired from <i>Vanderpump Rules</i>. Find out her reaction to the cast’s apologies.",
-        "url": "https://www.eonline.com/news/1160123/faith-stowers-says-she-received-private-apology-from-lala-kent-amid-vanderpump-rules-drama",
-        "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2020510/rs_600x600-200610131346-600-Faith-Stowers-lala-kent.jpg?fit=around|600:467&crop=600:467;center,top&output-quality=90",
-        "publishedAt": "2020-06-10T23:53:43Z",
-        "content": "Faith Stowers feels seen and heard. \r\nOne day after Bravo announced that Stassi Schroeder and Kristen Doute would not be returning to Vanderpump Rules, their former cast member is speaking out and re… [+948 chars]"
-      },
-      {
-        "source": {
-          "id": "the-washington-post",
-          "name": "The Washington Post"
+        "author":"Scott Feinberg",
+        "title":"Film Academy Board Set to Postpone Oscars Ceremony and Extend Eligibility Window (Exclusive) - Hollywood Reporter",
+        "description":"The Academy's board of governors will meet via Zoom on Monday, with Hollywood's biggest night on the agenda.",
+        "url":"https://www.hollywoodreporter.com/race/film-academy-board-set-postpone-oscars-ceremony-extend-eligibility-window-1298202",
+        "urlToImage":"https://cdn1.thr.com/sites/default/files/2020/06/92nd_annual_academy_awards_-_backstage_-_getty_-_h_2020_.jpg",
+        "publishedAt":"2020-06-14T21:40:18Z",
+        "content":"On Monday morning, four days after meeting and voting to enact a number of major diversity measures, the board of governors of the Academy of Motion Picture Arts and Sciences will again convene via Z… [+3828 chars]"
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"Variety"
         },
-        "author": "Ann Hornaday",
-        "title": "HBO Max isn’t censoring ‘Gone With the Wind.’ It’s reframing it. - The Washington Post",
-        "description": "After temporary hiatus, the film will return with added context for its racist characterizations.",
-        "url": "https://www.washingtonpost.com/lifestyle/style/hbo-max-isnt-censoring-gone-with-the-wind-its-reframing-it/2020/06/10/d78544ec-ab3e-11ea-94d2-d7bc43b26bf9_story.html",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6GBVMRVLJQI6VFGS266EHMTL7E.jpg&w=1440",
-        "publishedAt": "2020-06-10T23:33:07Z",
-        "content": "Unsurprisingly, HBO Maxs decision was immediately misrepresented for maximum outrage, with alarmist headlines blaring that the film had been pulled and critics taking the company to task for giving i… [+3522 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Vulture"
+        "author":"Jordan Moreau",
+        "title":"Barbra Streisand Makes George Floyd’s Daughter a Disney Shareholder - Variety",
+        "description":"Singer Barbra Streisand has helped make George Floyd’s 6-year-old daughter Gianna Floyd a Disney shareholder. Gianna posted a photo on her Instagram account holding her Disney shares certificate and thanked Streisand in the caption. “Thank you Barbra Streisan…",
+        "url":"https://variety.com/2020/music/news/barbra-streisand-george-floyd-daughter-disney-1234634432/",
+        "urlToImage":"https://pmcvariety.files.wordpress.com/2016/04/barbra-streisand.jpg?w=1000",
+        "publishedAt":"2020-06-14T21:34:00Z",
+        "content":"Singer Barbra Streisand has helped make George Floyd’s 6-year-old daughter Gianna Floyd a Disney shareholder.\r\nGianna posted a photo on her Instagram account holding her Disney shares certificate and… [+1221 chars]"
+     },
+     {
+        "source":{
+           "id":"fox-news",
+           "name":"Fox News"
         },
-        "author": "Rebecca Alter",
-        "title": "Jas Waters, This Is Us and Kidding Writer, Dead at 39 - Vulture",
-        "description": "She also had a story credit on What Men Want.",
-        "url": "https://www.vulture.com/2020/06/jas-waters-dead-at-39.html",
-        "urlToImage": "https://pyxis.nymag.com/v1/imgs/7a0/133/d3f6c3877941c1934b912d13c317204267-EaLbwPoVcAAg3tC.1x.rsocial.w1200.jpg",
-        "publishedAt": "2020-06-10T23:32:13Z",
-        "content": "Jas Waters, a television writer on This Is Usand Kidding, has died at the age of 39. A statement on her death was shared by the NBC shows writers official Twitter account on June 10, saying The entir… [+1049 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Los Angeles Times"
+        "author":"Nate Day",
+        "title":"Hank Williams Jr.'s daughter Holly pays tribute to late sister Katherine: 'I have no words' - Fox News",
+        "description":"Holly Williams is mourning her sister.",
+        "url":"https://www.foxnews.com/entertainment/hank-williams-jr-daughter-holly-katherine-tribute",
+        "urlToImage":"https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Hank-Holly-Katherine-Williams_getty.jpg",
+        "publishedAt":"2020-06-14T21:15:12Z",
+        "content":"Holly Williams is mourning her sister.\r\nOn Saturday night, Katherine Williams-Dunning, a daughter of country singer Hank Williams Jr., died in a car crash in Tennessee.\r\nIt was reported that the car … [+1967 chars]"
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"Us Weekly"
         },
-        "author": "Colleen Shalby",
-        "title": "Gyms, museums, hotels, day camps, arena sports reopening Friday - Los Angeles Times",
-        "description": "L.A. County announced that gyms, pro-league arenas, day camps, museums, galleries, zoos, aquariums, campgrounds, outdoor recreational areas and hotels will be allowed to reopen Friday.",
-        "url": "https://www.latimes.com/california/story/2020-06-10/la-county-reopening-gyms-museums-hotels-day-camps-arena-sports-friday",
-        "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/2a65ea8/2147483647/strip/true/crop/4873x2558+0+404/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F91%2Fc3%2F513dd6cc466ba548afefb1ea43d7%2F491555-fi-century-plaza-towers-full-jja-0006.JPG",
-        "publishedAt": "2020-06-10T22:36:44Z",
-        "content": "Los Angeles County on Wednesday announced that gyms and fitness facilities, pro-league arenas without audiences, day camps, museums, galleries, zoos, aquariums, campgrounds, RV parks, outdoor recreat… [+3792 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "KABC-TV"
+        "author":"Kathy Campbell",
+        "title":"Hannah Brown Saves a Man From Drowning While White-Water Rafting With Family - MSN Money",
+        "description":"Hannah Brown saved a man from drowning while white-water rafting with her family in Tennessee on Saturday, June 13 — read more",
+        "url":"https://www.usmagazine.com/celebrity-news/news/hannah-brown-saves-man-from-drowning-while-white-water-rafting/#article",
+        "urlToImage":"https://i1.wp.com/www.usmagazine.com/wp-content/uploads/2020/06/Hannah-Brown-Saves-A-Guy-From-Drowning-While-Rafting-With-Her-Family.jpg?crop=0px%2C115px%2C1720px%2C904px&resize=1200%2C630&ssl=1",
+        "publishedAt":"2020-06-14T20:55:00Z",
+        "content":"Bachelorette to the rescue! Hannah Brown saved a guy from drowning while white-water rafting with her family in Tennessee on Saturday, June 13.\r\nHannah Browns Evolution: From Bachelor to DWTS Champ a… [+2961 chars]"
+     },
+     {
+        "source":{
+           "id":"cnn",
+           "name":"CNN"
         },
-        "author": null,
-        "title": "Disneyland Resort announces plan to begin phased reopening of Anaheim theme parks in July - KABC-TV",
-        "description": "Disneyland Resort has announced a proposed plan to begin a phased reopening of the popular tourist destination in Anaheim on July 9.",
-        "url": "https://abc7.com/disneyland-reopen-disney-opening-california/6241468/",
-        "urlToImage": "https://cdn.abcotvs.com/dip/images/5029273_010719-kabc-ap-disneyland-file-img.jpg?w=1600",
-        "publishedAt": "2020-06-10T22:20:53Z",
-        "content": "ANAHEIM, Calif. -- Disneyland Resort has announced a proposal to begin a phased reopening of the popular tourist destination in Anaheim on July 9, followed by a reopening of the location's theme park… [+2127 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "YouTube"
+        "author":"Rishabh Madhavendra Pratap and Elizabeth Wells, CNN",
+        "title":"Indian actor Sushant Singh Rajput found dead in his Mumbai home - CNN",
+        "description":"Indian actor Sushant Singh Rajput was found dead in his Mumbai residence on Sunday, according to a statement from Mumbai police. He was 34.",
+        "url":"https://www.cnn.com/2020/06/14/world/sushant-singh-rajput-death-trnd/index.html",
+        "urlToImage":"https://cdn.cnn.com/cnnnext/dam/assets/200614084611-sushant-singh-rajput-restricted-super-tease.jpg",
+        "publishedAt":"2020-06-14T20:13:04Z",
+        "content":null
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"Rolling Stone"
         },
-        "author": null,
-        "title": "Anna Kendrick Says Filming 'Twilight' Was Traumatic! - Clevver News",
-        "description": "Anna Kendrick is letting fans in on what filming Twilight was really like, and I hate to break it to you, Twihards, but it wasn’t exactly all it was cracked ...",
-        "url": "https://www.youtube.com/watch?v=axWTVjPqb1s",
-        "urlToImage": "https://i.ytimg.com/vi/axWTVjPqb1s/maxresdefault.jpg",
-        "publishedAt": "2020-06-10T21:45:53Z",
-        "content": "Anna Kendrick is letting fans in on what filming Twilight was really like, and I hate to break it to you, Twihards, but it wasnt exactly all it was cracked up to be.Anna Kendrick has always been Holl… [+755 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CNET"
+        "author":"Daniel Kreps",
+        "title":"Spike Lee Apologizes After Defending Woody Allen, Criticizing Cancel Culture - Rolling Stone",
+        "description":"\"I do not and will not tolerate sexual harassment, assault or violence. Such treatment causes real damage that can’t be minimized\"",
+        "url":"https://www.rollingstone.com/movies/movie-news/spike-lee-woody-allen-apology-1014816/",
+        "urlToImage":"https://www.rollingstone.com/wp-content/uploads/2020/06/10520871df.jpg",
+        "publishedAt":"2020-06-14T20:09:05Z",
+        "content":"Spike Lee issued an apology Saturday following comments he made in a radio interview where he defended Woody Allen and admonished “this cancel [culture] thing.”\r\n“My words were WRONG,” Lee tweeted Sa… [+1468 chars]"
+     },
+     {
+        "source":{
+           "id":"entertainment-weekly",
+           "name":"Entertainment Weekly"
         },
-        "author": "Corinne Reichert",
-        "title": "San Diego Comic-Con at Home will be free - CNET",
-        "description": "The digital convention is planned for July.",
-        "url": "https://www.cnet.com/news/san-diego-comic-con-at-home-will-be-free/",
-        "urlToImage": "https://cnet3.cbsistatic.com/img/vBSsa-6NbB60tafZuS4Zd_hSipA=/756x567/2019/07/18/4bb44891-a8ef-4ae1-a85b-70153b1903b1/cosplay-sdcc-2019-0714.jpg",
-        "publishedAt": "2020-06-10T21:38:31Z",
-        "content": null
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Showbiz Cheat Sheet"
+        "author":"Rosy Cordero",
+        "title":"HBO Max to re-release 'Gone With The Wind' with new introduction - EW.com",
+        "description":"The controversial 1939 film 'Gone With the Wind' is set to return to streaming service HBO Max with an introduction from black scholar and television host Jacqueline Stewart.",
+        "url":"https://ew.com/movies/hbo-max-to-re-release-gone-with-the-wind-with-new-introduction/",
+        "urlToImage":"https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2019%2F01%2Fm8dgowi_ec028_h-2000.jpg",
+        "publishedAt":"2020-06-14T19:56:00Z",
+        "content":"HBO Max will re-release the controversial film Gone With The Wind at an as-yet-unknown date with a special introduction by black scholar and television host Jacqueline Stewart.\r\nThe streaming service… [+2155 chars]"
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"Showbiz Cheat Sheet"
         },
-        "author": "John Wolfe",
-        "title": "Could 'Space Force' Start a Legal Battle Between Netflix and the Military? - Showbiz Cheat Sheet",
-        "description": "'Space Force' is Netflix's latest big comedy starring Steve Carell. However, it seems like there could be some legal trouble on the horizon.",
-        "url": "https://www.cheatsheet.com/entertainment/could-space-force-start-a-legal-battle-between-netflix-and-the-military.html/",
-        "urlToImage": "https://www.cheatsheet.com/wp-content/uploads/2020/06/steve.carell.jpg",
-        "publishedAt": "2020-06-10T21:14:58Z",
-        "content": "There have been breaking developments in the world of the U.S. Space Force. Unfortunately, were not headed to Mars just yet. Rather, the military branch may be finding itself in a bizarre legal battl… [+3522 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Forbes"
+        "author":"Josie Griffin",
+        "title":"Lil' Kim Was Given A Gift Worth $250K That Led to a Felony Arrest - Showbiz Cheat Sheet",
+        "description":"Find out why Lil' Kim's $250K gift led to a felony arrest. Find out why Lil' Kim's $250K gift led to a felony arrest.",
+        "url":"https://www.cheatsheet.com/entertainment/lil-kim-was-given-a-gift-worth-250k-that-led-to-a-felony-arrest.html/",
+        "urlToImage":"https://www.cheatsheet.com/wp-content/uploads/2019/12/lil-kim-1024x683.jpg",
+        "publishedAt":"2020-06-14T19:14:12Z",
+        "content":"Every once in a while, you receive a gift that you just feel is terrible. Whether it’s a shirt that doesn’t fit or unwanted fruit cake during the holidays, most tend to still offer gratitude in the t… [+3285 chars]"
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"MarieClaire.com"
         },
-        "author": "Seth Cohen",
-        "title": "Vogue’s Anna Wintour Admits “Hurtful” Mistakes, But Is Her Apology On Race More Than Just Fashionable? - Forbes",
-        "description": "In an internal email to colleagues on Wednesday, legendary Vogue editor and fashion influencer Anna Wintour apologized for race-related mistakes of the past.",
-        "url": "https://www.forbes.com/sites/sethcohen/2020/06/10/vouges-anna-wintour-admits-hurtful-mistakes/",
-        "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1208377788%2F0x0.jpg",
-        "publishedAt": "2020-06-10T21:09:35Z",
-        "content": "In an internal email to colleagues on Wednesday, legendary Vogue editor and fashion influencer Anna Wintour apologized for race-related mistakes of the past.\r\nI want to say plainly that I know Vogue … [+4258 chars]"
-      },
-      {
-        "source": {
-          "id": "cnn",
-          "name": "CNN"
+        "author":"Kayleigh Roberts",
+        "title":"Meghan Markle's \"Rift\" with the Royal Family Reportedly Began Days After Her Wedding to Prince Harry - Yahoo! Voices",
+        "description":"Meghan reportedly did something that \"astonished\" royal insiders.",
+        "url":"https://www.marieclaire.com/celebrity/a32861305/meghan-markle-rift-with-the-royal-family-began-days-after-wedding/",
+        "urlToImage":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/meghan-markle-royal-wedding-gettyimages-960174072-1592154603.jpg?crop=0.568xw:0.383xh;0.221xw,0.0367xh&resize=1200:*",
+        "publishedAt":"2020-06-14T19:12:00Z",
+        "content":"<ul><li>According to a royal expert, Meghan Markle's rift with the rest of the royal family started just four days after her wedding to Prince Harry. </li></ul><ol></ol><ul><li>Lady Colin Campbell de… [+2349 chars]"
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"New York Daily News"
         },
-        "author": "Review by Brian Lowry, CNN",
-        "title": "Spike Lee revisits the Vietnam War's legacy in 'Da 5 Bloods' - CNN",
-        "description": "The timing alone gives Spike Lee's \"Da 5 Bloods\" a searing sense of urgency, contemplating black inequality through the prism of the Vietnam War.",
-        "url": "https://www.cnn.com/2020/06/10/entertainment/da-5-bloods-review/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200609083639-da-5-bloods-super-tease.jpg",
-        "publishedAt": "2020-06-10T21:05:42Z",
-        "content": "(CNN)The timing alone gives Spike Lee's \"Da 5 Bloods\" a searing sense of urgency, contemplating black inequality through the prism of the Vietnam War. Despite powerful moments, the film itself doesn'… [+3611 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Bleeding Cool News"
+        "author":"Peter Sblendorio",
+        "title":"‘The King of Staten Island’ removed suddenly from theaters - New York Daily News",
+        "description":"Movie fans will need to watch “The King of Staten Island” from their thrones at home.",
+        "url":"https://www.nydailynews.com/snyde/ny-king-of-staten-island-drive-in-theaters-20200614-k4oaobg3jbf7tfd3yfu66lypaq-story.html",
+        "urlToImage":"https://www.nydailynews.com/resizer/pGLrLjGCR6d-WdSalT3CjQXFGjs=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2ASXMEUNBFGUXCLLCDNS7TFDTA.JPG",
+        "publishedAt":"2020-06-14T19:10:29Z",
+        "content":null
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"wdwnt.com"
         },
-        "author": "Ray Flook",
-        "title": "Star Wars: Jedi Temple Challenge Premieres First 2 Episodes Online - Bleeding Cool News",
-        "description": "Star Wars: Jedi Temple Challenge premiered two episodes online Wednesday, on the Star Wars Kids channel on YouTube and StarWarsKids.com.",
-        "url": "https://bleedingcool.com/tv/star-wars-jedi-temple-challenge-premieres-first-2-episodes-online/",
-        "urlToImage": "https://bleedingcool.com/wp-content/uploads/2020/06/swjeditemple-1200x628.jpg",
-        "publishedAt": "2020-06-10T20:26:28Z",
-        "content": "After an understandable delay of one week (more on that below), the first two episodes of Star Wars: Jedi Temple Challenge have made their way online (available on the Star Wars Kids channel on YouTu… [+2423 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Page Six"
+        "author":null,
+        "title":"Disney to End Vacation Packages with Air Travel in 2021 - wdwnt.com",
+        "description":"The Walt Disney Travel Company is no longer offering air travel with their 2021 vacation packages.",
+        "url":"https://wdwnt.com/2020/06/disney-to-end-vacation-packages-with-air-travel-in-2021/",
+        "urlToImage":"https://wdwnt-buzzy.s3.amazonaws.com/2020/05/magic-kingdom-covid-19-march-15-closure-train-station-featured-image.jpg",
+        "publishedAt":"2020-06-14T18:32:27Z",
+        "content":"Today, the Walt Disney Travel Company announced that starting in 2021, they will no longer be offering vacation packages that include air travel.\r\nCurrently, Guests traveling to Walt Disney World Res… [+666 chars]"
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"Billboard"
         },
-        "author": "Melissa Minton",
-        "title": "'Duck Dynasty' star Willie Robertson shocks family with first haircut in 17 years - Page Six",
-        "description": "He’s unrecognizable.",
-        "url": "https://pagesix.com/2020/06/10/duck-dynasty-star-willie-robertson-shocks-family-with-first-haircut-in-17-years/",
-        "urlToImage": "https://nyppagesix.files.wordpress.com/2020/06/willie-roberston.jpg?quality=90&strip=all&w=1200",
-        "publishedAt": "2020-06-10T20:23:00Z",
-        "content": "Willie Robertson is unrecognizable even to his own family.\r\nThe “Duck Dynasty” star, 48, shocked friends and loved ones this week when he decided to cut off his shoulder-length hair and ditch his sig… [+803 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "WESH Orlando"
+        "author":"Mitchell Peters",
+        "title":"From Tupac to Lil Wayne: Eminem Shares His Greatest Rappers of All Time List - Billboard",
+        "description":"",
+        "url":"https://www.billboard.com/articles/columns/hip-hop/9402231/from-tupac-to-lil-wayne-eminem-shares-his-greatest-rappers-of-all-time-list",
+        "urlToImage":"https://static.billboard.com/files/2020/04/eminem-press-photo-2019-aqu-billboard-1548-1587659998-1024x677.jpg",
+        "publishedAt":"2020-06-14T18:29:42Z",
+        "content":"The \"Rap God\" himself has shared his list of the greatest rappers of all time.\r\nOn Saturday (June 13), Eminem responded to a tweet from YouTuber NoLifeShaq asking, \"Who is the greatest rapper of all … [+1351 chars]"
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"Daily Mail"
         },
-        "author": null,
-        "title": "Disney fans call for Splash Mountain ride to be re-themed - WESH 2 Orlando",
-        "description": "A number of Disney fans are calling for the popular “Splash Mountain” water ride to be re-themed amid civil unrest across the nation.",
-        "url": "https://www.wesh.com/article/disney-splash-mountain-re-themed-petition/32828148",
-        "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wesh/13248096-13248096.jpg?crop=1.00xw:0.752xh;0,0.248xh&resize=1200:*",
-        "publishedAt": "2020-06-10T20:14:39Z",
-        "content": "ORLANDO, Fla. —One of Disney's best-loved rides is based on a film widely considered the studio's most racist.\r\nRelated video above: Disney implementing social distancing squads\r\nSplash Mountain, a m… [+5409 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "YouTube"
+        "author":"By Annita Katee For Dailymail.com",
+        "title":"Brittany Cartwright asks for prayers after her mother Sherri is placed in the ICU - Daily Mail",
+        "description":"Brittany Cartwright's mom, Sherri, has been placed in the intensive care unit, after requiring emergency surgery after having a scheduled bladder surgery in March.",
+        "url":"https://www.dailymail.co.uk/tvshowbiz/article-8419655/Brittany-Cartwright-asks-prayers-mother-Sherri-placed-ICU.html",
+        "urlToImage":"https://i.dailymail.co.uk/1s/2020/06/14/19/29599444-0-image-a-93_1592159503040.jpg",
+        "publishedAt":"2020-06-14T18:20:57Z",
+        "content":"Brittany Cartwright's mom, Sherri, has been placed in the intensive care unit after requiring emergency surgery following a scheduled bladder surgery in March. \r\nIn a now deleted Instagram Story, the… [+2727 chars]"
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"Yahoo Entertainment"
         },
-        "author": null,
-        "title": "Kylie Jenner Put On BLAST For Lack Of Diversity At Kylie Cosmetics! - Clevver News",
-        "description": "Kylie Jenner drama after she revealed that only roughly 13 percent of her employees are black as part of the “pull up for change” trend on Instagram.Fans onl...",
-        "url": "https://www.youtube.com/watch?v=5Q68eXA_EZo",
-        "urlToImage": "https://i.ytimg.com/vi/5Q68eXA_EZo/maxresdefault.jpg",
-        "publishedAt": "2020-06-10T19:45:00Z",
-        "content": "Kylie Jenner drama after she revealed that only roughly 13 percent of her employees are black as part of the pull up for change trend on Instagram.Fans online are dragging Kylie Jenners brand Kylie C… [+739 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "YouTube"
+        "author":"Natasha Reda",
+        "title":"Clare Crawley Reportedly Had No Idea Matt James Was Becoming The Bachelor - Yahoo Lifestyle",
+        "description":"FYI: He was originally cast as a contestant on her Bachelorette season.",
+        "url":"https://www.yahoo.com/lifestyle/clare-crawley-reportedly-had-no-181021806.html",
+        "urlToImage":"https://s.yimg.com/ny/api/res/1.2/9gC68uGHWiw5Al5fF5QiXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NDUuNTI3NjM4MTkwOTU0OA--/https://s.yimg.com/uu/api/res/1.2/cj_e49Z3rFECHelkRjabhg--~B/aD04ODI7dz0xMTk0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/glamour_497/0b58254dd7378cff69bf3d55fccd6140",
+        "publishedAt":"2020-06-14T18:10:00Z",
+        "content":"In all of the excitement over The Bachelor's first-ever black lead, it seems someone forgot to tell Clare Crawley that Matt James would no longer be a contestant on her season of The Bachelorette.\r\nT… [+2430 chars]"
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"Yahoo Entertainment"
         },
-        "author": null,
-        "title": "Megyn Kelly, Whoopi Talk 'Gone With The Wind' Removal - ET Canada",
-        "description": "After HBO Max announced they were removing \"Gone With The Wind\" until they could add historical context, Roz Weston, Keshia Chante and Graeme O'Neil take a l...",
-        "url": "https://www.youtube.com/watch?v=VyjjyAvoNmI",
-        "urlToImage": "https://i.ytimg.com/vi/VyjjyAvoNmI/hqdefault.jpg",
-        "publishedAt": "2020-06-10T19:37:11Z",
-        "content": null
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
+        "author":"Erin Donnelly",
+        "title":"Salma Hayek, 53, wows fans with makeup-free selfie: 'The most beautiful woman on the planet ever' - Yahoo Entertainment",
+        "description":"The actress embraced her natural beauty in a new Instagram post.",
+        "url":"https://www.yahoo.com/entertainment/salma-hayek-makeup-free-selfie-174939238.html",
+        "urlToImage":"https://s.yimg.com/uu/api/res/1.2/4xQldFwVxiOc66gEGZ3Dqg--~B/aD0xMDI2O3c9MTQ4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-06/c92c9940-ae63-11ea-affa-c1a57134d716",
+        "publishedAt":"2020-06-14T18:00:43Z",
+        "content":"Paulina Porizkova, who recently showed fans what I actually look like, isnt the only over-50 celebrity embracing her natural beauty. On Sunday, actress Salma Hayek, 53, posted a stunning makeup-free,… [+824 chars]"
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"Showbiz Cheat Sheet"
         },
-        "author": "Rachel Premack",
-        "title": "Adam Rapoport's assistant on how Bon Appétit fails people of color - Business Insider - Business Insider",
-        "description": "Adam Rapoport repeatedly denied the only Black woman on Bon Appétit staff's requests for a raise. She makes $35,300 before overtime.",
-        "url": "https://www.businessinsider.com/adam-rapoport-assistant-how-bon-apptit-fails-people-of-color-2020-6",
-        "urlToImage": "https://i.insider.com/5ee0e324988ee367a1585205?width=1200&format=jpeg",
-        "publishedAt": "2020-06-10T19:35:05Z",
-        "content": "On June 4, Ryan Walker-Hartshorn sat on the phone with Bon Appétit's editor in chief, Adam Rapoport. She had worked as Rapoport's assistant for two years and nine months and had repeatedly asked for … [+3116 chars]"
-      },
-      {
-        "source": {
-          "id": "cnn",
-          "name": "CNN"
+        "author":"Julia Dzurillay",
+        "title":"Drag Does Pay off - This 'RuPaul's Drag Race: All-Star 5' Contestant Earns Over $4000 per Instagram Post - Showbiz Cheat Sheet",
+        "description":"These queens earn more than just love and support from fans. Here's what we know about the contestants of 'RuPaul's Drag Race: All-Stars 5' and their Instagram accounts.",
+        "url":"https://www.cheatsheet.com/entertainment/rupauls-drag-race-all-star-5-contestant-earns-over-4000-per-instagram-post.html/",
+        "urlToImage":"https://www.cheatsheet.com/wp-content/uploads/2020/06/Miz-Cracker-Blair-St.-Clair.jpg",
+        "publishedAt":"2020-06-14T17:53:55Z",
+        "content":"These drag queens take their charisma, uniqueness, nerve, and talent from RuPauls reality competition series to Instagram. Thanks to one analysis, fans learned which of the All-Stars 5 queens earn th… [+3014 chars]"
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"HYPEBEAST"
         },
-        "author": "Lisa Respers France, CNN",
-        "title": "These films don't help the racism conversation - CNN",
-        "description": "The world feels different right now and content is being viewed through a different lens.",
-        "url": "https://www.cnn.com/2020/06/10/entertainment/racism-movies-conversation/index.html",
-        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/120224100346-the-help-1-story-top.jpg",
-        "publishedAt": "2020-06-10T19:24:59Z",
-        "content": null
-      },
-      {
-        "source": {
-          "id": "fox-news",
-          "name": "Fox News"
+        "author":"Felson Sajonas",
+        "title":"James Bond 'No Time to Die' Movie Gets New Release Date - HYPEBEAST",
+        "description":"This will be Craig's final run as Bond.",
+        "url":"https://hypebeast.com/2020/6/james-bond-no-time-to-die-movie-new-release-date",
+        "urlToImage":"https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F06%2Fjames-bond-no-time-to-die-new-release-date-tw.jpg?w=960&cbr=1&q=90&fit=max",
+        "publishedAt":"2020-06-14T17:22:00Z",
+        "content":"The entertainment industry, like so many other industries, have experience some major setbacks since quarantine and lockdown orders have been mandated because of the coronavirus. Namely, big blockbus… [+1680 chars]"
+     },
+     {
+        "source":{
+           "id":null,
+           "name":"Forbes"
         },
-        "author": "Tyler McCarthy",
-        "title": "Matthew McConaughey asks Emmanuel Acho how he can get over his 'white allergies' - Fox News",
-        "description": "Matthew McConaughey appeared on the second episode of Emmanuel Acho’s show to ask how he, as a white person can be better about dismantling systemic racism.",
-        "url": "https://www.foxnews.com/entertainment/matthew-mcconaughey-emmanuel-acho-white-allergies",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/MM.jpg",
-        "publishedAt": "2020-06-10T18:57:07Z",
-        "content": "Matthew McConaughey appeared on the second episode of Emmanuel Acho’s show to ask how he, as a white person, can be better about dismantling systemic racism.\r\nThe former NFL star welcomed the Oscar-w… [+2862 chars]"
-      }
-    ]
-  
+        "author":"Scott Mendelson",
+        "title":"‘Artemis Fowl’: Hollywood Keeps Making The Same Franchise-Killing Mistake - Forbes",
+        "description":"Don't make audiences wait for the sequel to see the characters they wanted to see in the first movie.",
+        "url":"https://www.forbes.com/sites/scottmendelson/2020/06/14/artemis-fowl-hollywood-keeps-making-the-same-franchise-killing-mistake/",
+        "urlToImage":"https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5c3312d378190007f4b8d0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4240%26cropY1%3D446%26cropY2%3D2832",
+        "publishedAt":"2020-06-14T17:18:57Z",
+        "content":"Ferdia Shaw is Artemis Fowl in Disneyâs ARTEMIS FOWL, an adventure directed by Kenneth Branagh ... [+] that finds the 12-year old genius in a battle of strength and cunning against a powerful, hidd… [+9654 chars]"
+     }
+  ]
