@@ -2,119 +2,145 @@
       {
          "source":{
             "id":null,
-            "name":"The Blast"
+            "name":"YouTube"
          },
-         "author":"Ryan Naumann",
-         "title":"Lance Bass Cut Ties With 'Vanderpump Rules' Star Jax Taylor Amid Racism Accusations - The Blast",
-         "description":"He thinks Bravo will fire him soon.",
-         "url":"https://theblast.com/c/lance-bass-cuts-ties-with-vanderpump-rules-jax-taylor-racism-scandal",
-         "urlToImage":"https://img.srgcdn.com/e//VGJGdzFsM2J2dk1uMzNIZVpoY1MuanBn.jpg",
-         "publishedAt":"2020-06-16T02:26:06Z",
-         "content":"During the episode, Lance agrees that Jax is one of the most ignorant people on the show. The comment is interesting because Lance is close with Jax and even officiated Jaxs wedding to Brittany.\r\nLan… [+612 chars]"
+         "author":null,
+         "title":"Jimmy Kimmel's Quarantine Monologue – Trump Fends Off Tell-All Books, Supporters Fend Off Masks - Jimmy Kimmel Live",
+         "description":"In today’s #JimmyKimmelLiveFromHisHouse monologue, Jimmy talks about the NBA returning to play at Disney World, Trump fending off tell-all books from his nie...",
+         "url":"https://www.youtube.com/watch?v=HVkykOOhFOo",
+         "urlToImage":"https://i.ytimg.com/vi/HVkykOOhFOo/maxresdefault.jpg",
+         "publishedAt":"2020-06-18T02:17:46Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"the-wall-street-journal",
+            "name":"The Wall Street Journal"
+         },
+         "author":"Benjamin Mullin, Anne Steele",
+         "title":"Kim Kardashian West Lands Podcast Deal With Spotify - The Wall Street Journal",
+         "description":"Show would explore the celebrity’s work with wrongful convictions",
+         "url":"https://www.wsj.com/articles/kim-kardashian-west-lands-podcast-deal-with-spotify-11592427337",
+         "urlToImage":"https://images.wsj.net/im-199623/social",
+         "publishedAt":"2020-06-18T01:47:23Z",
+         "content":"Kim Kardashian West reached a deal with Spotify Technology SA for a criminal-justice podcast, according to people familiar with the matter, exploring a topic that has come to the forefront of the nat… [+332 chars]"
       },
       {
          "source":{
             "id":"fox-news",
             "name":"Fox News"
          },
-         "author":"Naledi Ushe",
-         "title":"Former 'Bachelor' Nick Viall reacts to rewatching 'failed engagement' to Kaitlyn Bristowe - Fox News",
-         "description":"Kaitlyn Bristowe’s season of “The Bachelorette” is reairing Monday as a part of “The Bachelor: The Greatest Seasons — Ever!” and Nick Viall, who was in the final two, shared a clip from his proposal on Instagram, revealing what he thinks about ABC rehashing h…",
-         "url":"https://www.foxnews.com/entertainment/bachelor-nick-viall-kaitlyn-bristowe-failed-engagement-rewatch",
-         "urlToImage":"https://static.foxnews.com/foxnews.com/content/uploads/2018/09/nick-viall-abc.jpg",
-         "publishedAt":"2020-06-16T01:18:59Z",
-         "content":"Kaitlyn Bristowe’s season of “The Bachelorette” is reairing Monday as a part of “The Bachelor: The Greatest Seasons — Ever!” and Nick Viall, who was in the final two, shared a clip from his proposal … [+2573 chars]"
+         "author":"Nate Day",
+         "title":"Nick Cordero's wife says he's struggling with blood pressure amid 'roller coaster' battle with coronavirus - Fox News",
+         "description":"Once again, Nick Cordero's health battle has left his wife, Amanda Kloots, asking for prayers.",
+         "url":"https://www.foxnews.com/entertainment/nick-cordero-struggling-blood-pressure-roller-coaster-coronavirus",
+         "urlToImage":"https://static.foxnews.com/foxnews.com/content/uploads/2020/04/cf676f86-Nick-Cordero.jpg",
+         "publishedAt":"2020-06-18T01:05:13Z",
+         "content":"Once again, Nick Cordero's health battle has left his wife, Amanda Kloots, asking for prayers.\r\nOn Wednesday, Kloots shared on her Instagram Story that the 41-year-old actor's blood pressure isn't wh… [+1946 chars]"
+      },
+      {
+         "source":{
+            "id":"cnn",
+            "name":"CNN"
+         },
+         "author":"Sandra Gonzalez, CNN",
+         "title":"Actor Danny Masterson arrested on rape charges in Los Angeles - CNN",
+         "description":"Actor Danny Masterson, best known for his role on \"That '70s Show,\" was charged with three counts of rape, Los Angeles County District Attorney Jackie Lacey announced Wednesday.",
+         "url":"https://www.cnn.com/2020/06/17/entertainment/danny-masterson/index.html",
+         "urlToImage":"https://cdn.cnn.com/cnnnext/dam/assets/190817075346-danny-masterson-church-scientology-facing-sexual-assault-lawsuit-huffpost-jackson-ndwknd-vpx-00011716-super-tease.jpg",
+         "publishedAt":"2020-06-18T00:44:47Z",
+         "content":"(CNN)Actor Danny Masterson, best known for his role on \"That '70s Show,\" was charged with three counts of rape, Los Angeles County District Attorney Jackie Lacey announced Wednesday. \r\nMasterson was … [+3204 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Mirror Online"
+         },
+         "author":"Neil Murphy",
+         "title":"Meghan and Harry’s Archewell trademark application rejected as plans are ‘too vague’ - Mirror Online",
+         "description":"The trademark - inspired by their son's name Archie - has fallen foul of the United States Patent and Trademark Office after it deemed the nature of the non-profit's work as \"too vague\"",
+         "url":"https://www.mirror.co.uk/news/uk-news/meghan-harrys-archewell-trademark-application-22210353",
+         "urlToImage":"https://i2-prod.mirror.co.uk/incoming/article22152623.ece/ALTERNATES/s1200/0_FILES-US-POLITICS-RACE-UNREST-MARKLE.jpg",
+         "publishedAt":"2020-06-18T00:37:07Z",
+         "content":"Meghan Markle and Prince Harry's Archewell trademark application for their new charitable organisation has been been rejected for being \"too vague\".\r\n The pair, now adjusting to life in Los Angeles, … [+2788 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Daily Mail"
+         },
+         "author":"By Brian Gallagher For Dailymail.com",
+         "title":"Michelle Williams welcomes her second child, her first with husband Thomas Kail - Daily Mail",
+         "description":"Michelle Williams is a mother again, welcoming her second child into the world, her first with husband Thomas Kail.",
+         "url":"https://www.dailymail.co.uk/tvshowbiz/article-8434055/Michelle-Williams-welcomes-second-child-husband-Thomas-Kail.html",
+         "urlToImage":"https://i.dailymail.co.uk/1s/2020/06/18/01/29736960-0-image-a-17_1592438874614.jpg",
+         "publishedAt":"2020-06-18T00:33:31Z",
+         "content":"Michelle Williams is a mother again, welcoming her second child into the world, her first with husband Thomas Kail.\r\nWilliams, 39, was revealed to be pregnant back in December, with US Weekly confirm… [+2513 chars]"
       },
       {
          "source":{
             "id":null,
             "name":"Vulture"
          },
-         "author":"Devon Ivie",
-         "title":"The Politician Season 2 Trailer: Bette Midler Is Here Now - Vulture",
-         "description":"And Judith Light, too.",
-         "url":"https://www.vulture.com/2020/06/the-politician-season-2-trailer-netflix-2020-watch.html",
-         "urlToImage":"https://pyxis.nymag.com/v1/imgs/2e4/045/15a8f823bb89e930c573a0176a5856f60e-the-politician-2.1x.rsocial.w1200.jpg",
-         "publishedAt":"2020-06-16T00:34:22Z",
-         "content":"While you were spending your college years waking up on questionable futons, Payton Hobart (Ben Platt) was living his university life as a state senatorial candidate in New York. (Even if the constit… [+686 chars]"
-      },
-      {
-         "source":{
-            "id":"bleacher-report",
-            "name":"Bleacher Report"
-         },
-         "author":"The Doctor Chris Mueller",
-         "title":"WWE Raw Results: Winners, Grades, Reaction and Highlights from June 15 - Bleacher Report",
-         "description":"Sunday's Backlash pay-per-view will be the main topic of discussion on this week's Raw as  Randy Orton  opened the show so he can talk about his win over Edge...",
-         "url":"https://bleacherreport.com/articles/2896330-wwe-raw-results-winners-grades-reaction-and-highlights-from-june-15",
-         "urlToImage":"https://img.bleacherreport.net/img/images/photos/003/872/675/31bfd7c0d93f6a50b6d6d48855256995_crop_exact.jpg?w=1200&h=1200&q=75",
-         "publishedAt":"2020-06-16T00:18:03Z",
-         "content":"Before this match began, Angel Garza and Zelina Vega were being interviewed by Charly Caruso. Andrade wished Garza luck but looked like he was still upset about how Backlash turned out for him.\r\nEl I… [+1272 chars]"
+         "author":"Chris Murphy",
+         "title":"Pete Davidson and Colin Jost to Bro Out in Wedding Comedy Worst Man for Universal - Vulture",
+         "description":"Think Bridesmaids but for the boys.",
+         "url":"http://www.vulture.com/2020/06/pete-davidson-colin-jost-star-in-wedding-film-worst-man.html",
+         "urlToImage":"https://pyxis.nymag.com/v1/imgs/23b/fbb/42758a64d108abac9aa3c08ce2d90cb449--22davidson-jost-22.1x.rsocial.w1200.jpg",
+         "publishedAt":"2020-06-18T00:08:00Z",
+         "content":"Saturday Night Live pals Pete Davidson and Colin Jost are taking their friendship to the next level: the silver screen. Variety reports that Davidson and Jost have signed on to star in the wedding co… [+1117 chars]"
       },
       {
          "source":{
             "id":null,
-            "name":"Billboard"
+            "name":"TheWrap"
          },
-         "author":"Heran Mamo",
-         "title":"Liam Payne Celebrates His Decade-Long Career With Throwback Pic - Billboard",
-         "description":"",
-         "url":"https://www.billboard.com/articles/columns/pop/9402936/liam-payne-celebrates-decade-long-career",
-         "urlToImage":"https://static.billboard.com/files/media/liam-payne-one-direction-portrait-session-2012-billboard-650-compressed.jpg",
-         "publishedAt":"2020-06-16T00:00:58Z",
-         "content":"Liam Payne remembered the first time he hit the X Factor stage and started his pop star journey 10 years ago for a tribute post he shared on social media yesterday (June 14).\r\n\"Its been 10 years toda… [+927 chars]"
+         "author":"Beatrice Verhoeven",
+         "title":"Yohan, K-Pop Star of Boy Band TST, Dies at 28 - TheWrap",
+         "description":"K-pop star Yohan, whose real name is Kim Jeong-hwan, of the boy band TST has died at the age of 28, according to The Guardian.",
+         "url":"http://www.thewrap.com/k-pop-star-yohan-tst-boy-band-dies-at-28/",
+         "urlToImage":"https://www.thewrap.com/wp-content/uploads/2020/06/yohan-e1592436856985.jpg",
+         "publishedAt":"2020-06-17T23:53:00Z",
+         "content":"K-pop star Yohan, whose real name is Kim Jeong-hwan, of the boy band TST died Tuesday the age of 28.\r\n“We are sad to relay the most unfortunate, sorrowful news. On June 16, TST member Yohan left this… [+12024 chars]"
       },
       {
          "source":{
             "id":null,
-            "name":"INSIDER"
+            "name":"Daily Mail"
          },
-         "author":"Palmer Haasch",
-         "title":"9 of the best moments from BTS' energetic and intimate virtual concert 'Bang Bang Con: The Live' - Insider - INSIDER",
-         "description":"BTS took to the virtual stage on June 14 to celebrate its seventh anniversary with fans from around the world, performing old and new tracks.",
-         "url":"https://www.insider.com/bang-bang-con-the-live-bts-virtual-concert-best-moments-2020-6",
-         "urlToImage":"https://i.insider.com/5ee2a50d3f737057da5a8065?width=1200&format=jpeg",
-         "publishedAt":"2020-06-15T23:39:00Z",
-         "content":"On June 15, all seven members of BTS — that's RM, Jin, Suga, J-Hope, Jimin, V, and Jungkook — took the virtual stage with thousands of ARMYs (BTS fans) from around the world as their audience at \"Ban… [+6380 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Deadline"
-         },
-         "author":"Anthony D'Alessandro",
-         "title":"‘Invisible Man’ Reclaims No. 1 In Weekend 16 As Universal Owns Bulk Of Top 10 Despite ‘King Of Staten Island’ Sitting Out - Deadline",
-         "description":"EXCLUSIVE: For a second time, Universal/Blumhouse’s Elisabeth Moss horror movie The Invisible Man has taken the top spot at the box office. That win, in the pic’s 16th weekend, reps its second No. 1 finish since opening over the February 28-March 1 weekend, t…",
-         "url":"https://deadline.com/2020/06/king-of-staten-island-sits-out-weekend-box-office-invisible-man-universal-top-10-coronavirus-pvod-1202959765/",
-         "urlToImage":"https://pmcdeadline2.files.wordpress.com/2020/02/invisible-man-xxx.jpg?w=1024",
-         "publishedAt":"2020-06-15T23:30:03Z",
-         "content":"EXCLUSIVE: For a second time, Universal/Blumhouse’s Elisabeth Moss horror movie The Invisible Man has taken the top spot at the box office.\r\nThat win, in the pic’s 16th weekend, reps its second No. 1… [+4417 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Billboard"
-         },
-         "author":"Heran Mamo",
-         "title":"Amanda Seales to Host 2020 BET Awards, Megan Thee Stallion, Roddy Ricch, DaBaby & More Performers Announced - Billboard",
-         "description":"",
-         "url":"https://www.billboard.com/articles/news/awards/9402914/amanda-seales-host-2020-bet-awards-megan-thee-stallion-roddy-ricch-dababy-performer-list",
-         "urlToImage":"https://static.billboard.com/files/2020/06/AmandaSeales_3605-cr-BET-NETWORKS-billboard-1548-1592262965-1024x677.jpg",
-         "publishedAt":"2020-06-15T23:20:18Z",
-         "content":"Insecure actress and comedian Amanda Seales will host the 2020 BET Awards on June 28.\r\nBET also announced the first group of performers today (June 15), which include five-time nominated newcomers Me… [+1579 chars]"
+         "author":"By David Lawrance For Dailymail.com",
+         "title":"Below Deck Mediterranean star FIRED by Bravo for racist post - Daily Mail",
+         "description":"On Wednesday, a Bravo spokesperson confirmed to DailyMail.com that the reality TV star had 'been terminated for his racist [social media] post.'",
+         "url":"https://www.dailymail.co.uk/tvshowbiz/article-8432933/Below-Deck-Mediterranean-star-Peter-Hunziker-FIRED-Bravo-shocking-racist-post.html",
+         "urlToImage":"https://i.dailymail.co.uk/1s/2020/06/17/20/29727536-0-image-a-39_1592422993401.jpg",
+         "publishedAt":"2020-06-17T23:47:41Z",
+         "content":"Bravo has fired another of its stars for racist actions: this time Below Deck Mediterranean star Peter Hunziker. \r\nOn Wednesday, a Bravo spokesperson confirmed to DailyMail.com that the reality TV st… [+1791 chars]"
       },
       {
          "source":{
             "id":null,
             "name":"Showbiz Cheat Sheet"
          },
-         "author":"Aramide Tinubu",
-         "title":"Prince William Said the Most Awkward Thing to Kate Middleton When They First Met - Showbiz Cheat Sheet",
-         "description":"Prince William and Kate Middleton have a wonderful relationship now, but the prince's first words to Kate were very awkward.",
-         "url":"https://www.cheatsheet.com/entertainment/prince-william-kate-middleton-awkward-first-words.html/",
-         "urlToImage":"https://www.cheatsheet.com/wp-content/uploads/2019/05/scs-icon.png",
-         "publishedAt":"2020-06-15T23:16:21Z",
-         "content":"Nearly 10 years into their marriage, Prince William and Catherine,Duchess of Cambridge seem to have a relationship out of a fairytale. The duo met when they were students at St. Andrews University an… [+3046 chars]"
+         "author":"Mandi Kerr",
+         "title":"'Keeping Up With the Kardashians': Why Is Scott Disick So Involved in the Show? - Showbiz Cheat Sheet",
+         "description":"Scott Disick is a household name thanks to 'Keeping Up With the Kardashians' but why is he so involved in the show? It could be because of his on-again-off-again relationship with Kourtney Kardashian, how close he is to the Kar-Jenner family, or the fact that…",
+         "url":"https://www.cheatsheet.com/entertainment/keeping-up-with-the-kardashians-why-is-scott-disick-so-involved-in-show.html/",
+         "urlToImage":"https://www.cheatsheet.com/wp-content/uploads/2020/06/Scott-Disick-at-Windsor-Smith-store--349x500.jpg",
+         "publishedAt":"2020-06-17T23:24:18Z",
+         "content":"While Keeping Up With the Kardashians is all about the Kar-Jenner family, supporting cast members make names for themselves too. Enter Scott Disick, Kourtney Kardashians on-again-of-again boyfriend w… [+3044 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Cageside Seats"
+         },
+         "author":"Manolo Has Pizzazz",
+         "title":"Cody hints tonight’s TNT Championship challenger is from outside AEW - Cageside Seats",
+         "description":"Who could it be?",
+         "url":"https://www.cagesideseats.com/2020/6/17/21294940/cody-rhodes-hints-june-17-20202-dynamite-tnt-championship-challenger-outside-aew",
+         "urlToImage":"https://cdn.vox-cdn.com/thumbor/LjZFvZtVgOglsFWV_v3uTf_vYOc=/0x430:6000x3571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20040360/AEW01665.jpg",
+         "publishedAt":"2020-06-17T23:16:00Z",
+         "content":"When Cody Rhodes said he would defend the TNT Championship in a weekly open challenge, he truly meant open to the world. On the Dynamite pre-show hosted by Alex Abrahantes, Cody dropped a hint that t… [+1946 chars]"
       },
       {
          "source":{
@@ -122,63 +148,11 @@
             "name":"YouTube"
          },
          "author":null,
-         "title":"Star Wars: Squadrons Trailer Reveals Story, Multiplayer Modes - IGN Daily Fix - IGN",
-         "description":"Lock S-foils in attack position! EA Games finally revealed the next game set in a galaxy far, far away - Star Wars: Squadrons! The game's first trailer featu...",
-         "url":"https://www.youtube.com/watch?v=SnOizM7T_oU",
-         "urlToImage":"https://i.ytimg.com/vi/SnOizM7T_oU/maxresdefault.jpg",
-         "publishedAt":"2020-06-15T23:08:41Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"usa-today",
-            "name":"USA Today"
-         },
-         "author":"Cydney Henderson",
-         "title":"Howard Stern addresses blackface skit that uses N-word after Donald Trump Jr. calls him out - USA TODAY",
-         "description":"Howard Stern is breaking his silence after a 1993 sketch showing the radio shock jock repeatedly using the N-word in blackface resurfaced online.",
-         "url":"https://www.usatoday.com/story/entertainment/celebrities/2020/06/15/howard-stern-addresses-blackface-skit-response-donald-trump-jr/3194642001/",
-         "urlToImage":"https://www.gannett-cdn.com/presto/2020/06/15/USAT/2e8ea087-6a0c-4733-bdc7-9aa4c4b24fcb-AP_Books-Howard_Stern_1.JPG?crop=2856,1607,x0,y235&width=1600&height=800&fit=bounds",
-         "publishedAt":"2020-06-15T23:05:43Z",
-         "content":"Howard Stern became the most notorious and highest-paid radio host of all time by flooding the air with nonstop outrageous antics.\r\nTime Gannett\r\nHoward Stern is breaking his silence after a 1993 ske… [+3826 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Yahoo Entertainment"
-         },
-         "author":"Taryn Ryder",
-         "title":"Brian Austin Green photographed with Courtney Stodden after Megan Fox split - Yahoo Entertainment",
-         "description":"The \"Beverly Hills, 90210\" alum and reality star fuel romance rumors.",
-         "url":"https://www.yahoo.com/entertainment/brian-austin-green-photographed-courtney-stodden-megan-fox-split-224022545.html",
-         "urlToImage":"https://s.yimg.com/ny/api/res/1.2/jR8vhqBv4nx54DHyDwAmEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03Njg-/https://s.yimg.com/os/creatr-uploaded-images/2020-06/dc2edcb0-af4e-11ea-bcfb-394a042ba086",
-         "publishedAt":"2020-06-15T22:59:02Z",
-         "content":"Moving on? Brian Austin Green was photographed grabbing lunch over the weekend with Courtney Stodden. The outing comes one month after the Beverly Hills, 90210 star confirmed he and wife Megan Fox ha… [+3012 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"KOLD"
-         },
-         "author":"KOLD News 13 Staff",
-         "title":"Country superstar Garth Brooks coming to Tucson, kind of - KOLD",
-         "description":"Encore Live presents Garth Brooks A Drive-In Concert Experience will take place Saturday, June 27.",
-         "url":"https://www.kold.com/2020/06/15/country-superstar-garth-brooks-coming-tucson-kind/",
-         "urlToImage":"https://www.kold.com/resizer/CC1d5KT2ix_xc8ht14gjaMdQwFU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/ZYSZWQUHDFBCVKJK4RFLYTT22Q.png",
-         "publishedAt":"2020-06-15T22:51:00Z",
-         "content":"TUCSON, Ariz. (KOLD News 13) - Tucson, this will not be one of those unanswered prayers!\r\nCountry superstar Garth Brooks is putting on his summer concert tour and COVID-19 wont be able to stop you fr… [+322 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"YouTube"
-         },
-         "author":null,
-         "title":"Jay Pharoah: Cops Put Knee on My Neck - Inside Edition",
-         "description":"Saturday Night Live alum Jay Pharoah says he was out jogging in Los Angeles, when he noticed a police officer with a gun pointed at him. The cops then got hi...",
-         "url":"https://www.youtube.com/watch?v=_CJkI8EE7B8",
-         "urlToImage":"https://i.ytimg.com/vi/_CJkI8EE7B8/maxresdefault.jpg",
-         "publishedAt":"2020-06-15T22:45:38Z",
+         "title":"Movie Theaters Reopen to Few Ticket Sales and Zero New Films - Inside Edition",
+         "description":"Movie fans are wondering if it’s safe to return to theaters. Bow Tie Cinemas in Connecticut reopened Wednesday and Inside Edition got a behind-the-scenes loo...",
+         "url":"https://www.youtube.com/watch?v=HzM6LzLNJVY",
+         "urlToImage":"https://i.ytimg.com/vi/HzM6LzLNJVY/maxresdefault.jpg",
+         "publishedAt":"2020-06-17T23:02:15Z",
          "content":null
       },
       {
@@ -187,76 +161,102 @@
             "name":"YouTube"
          },
          "author":null,
-         "title":"'Bachelorette' Star Hannah Brown Saves Man From Drowning - Inside Edition",
-         "description":"Former “Bachelorette” star Hannah Brown is being hailed a hero after a helmet cam captured her rescuing a man whose raft flipped over on a river in Tennessee...",
-         "url":"https://www.youtube.com/watch?v=JUDKdSjd0Jw",
-         "urlToImage":"https://i.ytimg.com/vi/JUDKdSjd0Jw/maxresdefault.jpg",
-         "publishedAt":"2020-06-15T22:42:47Z",
+         "title":"Chris D'Elia Speaks Out Amid Sexual Misconduct Allegations - Access",
+         "description":"Chris D'Elia is breaking his silence after multiple Twitter users accused him of sexual harassment and grooming. \"I know I have said and done things that mig...",
+         "url":"https://www.youtube.com/watch?v=1lCgeao_TEc",
+         "urlToImage":"https://i.ytimg.com/vi/1lCgeao_TEc/maxresdefault.jpg",
+         "publishedAt":"2020-06-17T22:36:15Z",
          "content":null
       },
       {
          "source":{
             "id":null,
-            "name":"Eater"
+            "name":"The Daily Wire"
          },
-         "author":"Alex Frane",
-         "title":"Most of the Pok Pok Empire Is Closing - Eater Portland",
-         "description":"The original Pok Pok may be the only restaurant in the group to ever open again",
-         "url":"https://pdx.eater.com/2020/6/15/21292252/pok-pok-closing",
-         "urlToImage":"https://cdn.vox-cdn.com/thumbor/-bU-uyynB33M5NsvgUDtRc30xSg=/0x145:2000x1192/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8337699/Dina_Avila_Pok_Pok_NW_3967.jpg",
-         "publishedAt":"2020-06-15T22:34:52Z",
-         "content":null
+         "author":"Paul Bois",
+         "title":"Publishing Staff Threatens To Strike If Company Keeps J.K. Rowling's Book - The Daily Wire",
+         "description":"Now that author J.K. Rowling has refused to back down from her views on transgender ideology, staff for the company that publishes her children’s book has threatened to strike if they continue to carry the book. According to the Daily Mail, staff for Hachette…",
+         "url":"https://www.dailywire.com/news/publishing-staff-threatens-to-strike-if-company-keeps-j-k-rowlings-book",
+         "urlToImage":"https://dw-wp-production.imgix.net/2020/06/Rowling-1.jpg?w=1200&h=675&ixlib=react-9.0.2",
+         "publishedAt":"2020-06-17T22:33:33Z",
+         "content":"Now that author J.K. Rowling has refused to back down from her views on transgender ideology, staff for the company that publishes her childrens book has threatened to strike if they continue to carr… [+4047 chars]"
       },
       {
          "source":{
             "id":null,
-            "name":"Billboard"
+            "name":"Daily Mail"
          },
-         "author":"Heran Mamo",
-         "title":"CMA Set for New 'Summer Stay-Cay' Livestream Event, Luke Bryan-Led 'Best of Fest' TV Special - Billboard",
-         "description":"",
-         "url":"https://www.billboard.com/articles/news/awards/9402846/cma-summer-stay-cay-livestream-event-best-of-fest-tv-special",
-         "urlToImage":"https://static.billboard.com/files/media/Luke-Bryan-press-by-Jim-Wright-2019-billboard-1548-1024x677.jpg",
-         "publishedAt":"2020-06-15T22:33:10Z",
-         "content":"The Country Music Association (CMA) has a double whammy in store for country fans this summer with a CMA Fest tribute television special hosted by Luke Bryan and a new livestream variety event.\r\nOn J… [+1888 chars]"
+         "author":"By David Lawrance For Dailymail.com Heather Waugh For Dailymail.com",
+         "title":"Kelly Dodd claps back after Tamra Judge calls for her to be fired for racist comments - Daily Mail",
+         "description":"The reality TV star, 44, claimed her ex-castmate's anger at having been let go from Real Housewives of Orange County back in January was behind her recent calls for Dodd to be fired from the show.",
+         "url":"https://www.dailymail.co.uk/tvshowbiz/article-8433685/Kelly-Dodd-claps-Tamra-Judge-calls-fired-racist-comments.html",
+         "urlToImage":"https://i.dailymail.co.uk/1s/2020/06/17/23/29733554-0-image-a-24_1592432257309.jpg",
+         "publishedAt":"2020-06-17T22:29:45Z",
+         "content":"Kelly Dodd has returned fire in her war of words with Tamra Judge. \r\nThe reality TV star, 44, claimed her ex-castmate's anger at having been let go from Real Housewives of Orange County back in Janua… [+3528 chars]"
+      },
+      {
+         "source":{
+            "id":"cbs-news",
+            "name":"CBS News"
+         },
+         "author":"CBS News",
+         "title":"Jay Pharoah says \"sorry\" from LAPD cops who forcibly detained him with guns drawn is \"not enough\" - CBS News",
+         "description":"\"Why does it have to go to that extremity?\" Pharoah said about an officer putting a knee on his neck.",
+         "url":"https://www.cbsnews.com/news/jay-pharoah-lapd-detained-sorry/",
+         "urlToImage":"https://cbsnews1.cbsistatic.com/hub/i/r/2020/06/16/bdea4945-4a2d-4be3-a778-d5e97a81af1b/thumbnail/1200x630/780b4d404d56d68ec04fbaf7f627f053/00-47-37-19-1.jpg",
+         "publishedAt":"2020-06-17T22:21:10Z",
+         "content":"Former \"Saturday Night Live\" comedian Jay Pharoah said he was scared and confused when the Los Angeles police stopped him in April. Earlier this week, Pharoah shared a video of the encounter on Insta… [+5128 chars]"
       },
       {
          "source":{
             "id":null,
-            "name":"Wrestling Inc."
+            "name":"Talent Recap"
          },
-         "author":"Marc Middleton",
-         "title":"WWE Reportedly Changed Finish To Nia Jax Vs. Asuka At Backlash - Wrestling Inc.",
-         "description":"WWE Reportedly Changed Finish To Nia Jax Vs. Asuka At Backlash",
-         "url":"https://www.wrestlinginc.com/news/2020/06/wwe-reportedly-changed-finish-to-nia-jax-vs-asuka-at-671457/",
-         "urlToImage":"https://i1.ytimg.com/vi/eWWcr1b8b3A/maxresdefault.jpg",
-         "publishedAt":"2020-06-15T22:29:39Z",
-         "content":"The finish to Nia Jax vs. RAW Women's Champion Asuka at Sunday's WWEBacklash pay-per-view was reportedly changed the day of the show, according to Wrestling Observer Radio.\r\nIt's believed that origin… [+718 chars]"
+         "author":"Jill O'Rourke",
+         "title":"Simon Cowell Makes 12-Year-Old Perform THREE TIMES On 'AGT' And The Last Attempt Has Him Melted [VIDEO] - Talent Recap",
+         "description":"America's Got Talent | \"AGT\" judge Simon Cowell made 12-year-old Ashley Marina sing three separate songs during her audition.",
+         "url":"https://talentrecap.com/simon-cowell-makes-12-year-old-perform-three-times-on-agt-and-the-last-attempt-has-him-melted-video/",
+         "urlToImage":"https://talentrecap.com/wp-content/uploads/2020/06/Simon-Cowell-Makes-12-Year-Old-Perform-HREE-TIMES-On-AGT-And-The-Last-Attempt-Has-Him-Melted-VIDEO.png",
+         "publishedAt":"2020-06-17T22:18:49Z",
+         "content":"Young singer Ashley Marina had a stressful audition experience on America’s Got Talent this week, as judge Simon Cowell had her sing three different songsbefore she was voted through.\r\nSimon is known… [+1857 chars]"
       },
       {
          "source":{
             "id":null,
-            "name":"The A.V. Club"
+            "name":"CNBC"
          },
-         "author":"Sam Barsanti",
-         "title":"Beyoncé writes open letter asking Kentucky attorney general for justice in murder of Breonna Taylor - The A.V. Club",
-         "description":"Beyoncé has published an open letter to Kentucky's attorney general.",
-         "url":"https://news.avclub.com/beyonce-writes-open-letter-asking-kentucky-attorney-gen-1844044370",
-         "urlToImage":"https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bnvoxhzclsgctt6gz4yf.jpg",
-         "publishedAt":"2020-06-15T22:22:00Z",
-         "content":"As reported by CNN, Beyonces has shared an open letter addressed to Kentucky Attorney General Daniel Cameron asking for justice in the murder of Breonna Taylor, a 26-year-old Black woman who was shot… [+1731 chars]"
+         "author":"Jessica Golden",
+         "title":"A pair of iconic Nike shoes could draw $150,000 at auction - CNBC",
+         "description":"A pair of Waffle Spike shoes handcrafted by Nike co-founder Bill Bowerman is being sold at auction. The iconic pair of sneakers are expected to fetch between $130,000 to $150,000 as collectors are paying big bucks in sneaker sales.",
+         "url":"https://www.cnbc.com/2020/06/17/a-pair-of-iconic-nike-shoes-could-draw-150000-at-auction.html",
+         "urlToImage":"https://image.cnbcfm.com/api/v1/image/106581912-1592425397869nike.jpg?v=1592425461",
+         "publishedAt":"2020-06-17T22:11:01Z",
+         "content":"A beat up pair of white waffle spike shoes that were handmade in the early 1970s are expected to fetch up to $150,000 at auction.\r\nIf that price tag looks high, that's because these are no ordinary r… [+1646 chars]"
       },
       {
          "source":{
-            "id":"engadget",
-            "name":"Engadget"
+            "id":null,
+            "name":"Vulture"
          },
-         "author":"",
-         "title":"The 2021 Oscars are delayed due to the coronavirus pandemic - Engadget",
-         "description":"The 2021 Oscars have been postponed for two months to April 25th, 2021, the Academy of Motion Picture Arts and Sciences announced today. The coronavirus pandemic was cited as the reason for the date change. As a result, movies released as late as February 28,…",
-         "url":"https://www.engadget.com/2021-oscars-delayed-coronavirus-pandemic-212323703.html",
-         "urlToImage":"https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2Fd79853b0-af45-11ea-bf29-431281528203&client=amp-blogside-v2&signature=b3788d8a5f17cae5da66459c49a3e567c4651a60",
-         "publishedAt":"2020-06-15T21:54:58Z",
-         "content":"The 2021 Oscars have been postponed for two months to April 25th, 2021, the Academy of Motion Picture Arts and Sciences announced today. The coronavirus pandemic was cited as the reason for the date … [+517 chars]"
+         "author":"Rebecca Alter",
+         "title":"Gwyneth Paltrow Is Selling an Orgasm Candle Now, Too - Vulture",
+         "description":"And Jimmy Fallon is scandalized.",
+         "url":"https://www.vulture.com/2020/06/gwyneth-paltrows-vagina-candle-orgasm.html",
+         "urlToImage":"https://pyxis.nymag.com/v1/imgs/91d/ade/4415b678563221bf418bc271f367348448-gwyneth-paltrow-fallon-candle.1x.rsocial.w1200.jpg",
+         "publishedAt":"2020-06-17T22:02:42Z",
+         "content":"In 1981, high priest of trash John Waters released his film Polyesterwith scratch-and-sniff Odorama cards, featuring smells like Dirty Shoes, Model Airplane Glue, and Flatulence (Natural Ass). In Jan… [+1114 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"The DIS"
+         },
+         "author":"Tom Bell",
+         "title":"We May Have a Glimpse of the New Disney Reservation System - The DIS",
+         "description":"A regular poster on the wdwmagic message boards shared a couple screenshots today from what they claim is the proposed new reservation system for the Disneyland Resort.    Keep in mind that these are a work in",
+         "url":"https://www.wdwinfo.com/news-stories/we-may-have-a-glimpse-of-the-new-reservation-system-for-disney-parks/",
+         "urlToImage":"https://www.wdwinfo.com/wp-content/uploads/2020/06/NewReservationSystem-00.jpg",
+         "publishedAt":"2020-06-17T21:47:42Z",
+         "content":"A regular poster on the wdwmagic message boards shared a couple screenshots today from what they claim is the proposed new reservation system for the Disneyland Resort.\r\nKeep in mind that these are a… [+814 chars]"
       }
    ]
