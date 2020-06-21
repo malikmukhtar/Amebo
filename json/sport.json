@@ -2,144 +2,53 @@
       {
          "source":{
             "id":null,
-            "name":"Sporting News"
-         },
-         "author":"Sporting News",
-         "title":"Transfer news and rumours LIVE: Chelsea prepared to sell Kante - Goal.com",
-         "description":"James Rodriguez deserves more \"respect\" from Zinedine Zidane, according to Faustino Asprilla, who says he would tell the Real Madrid boss to \"eat sh*t\" if he was in the midfielder's shoes.",
-         "url":"https://www.sportingnews.com/ca/soccer",
-         "urlToImage":"https://images.daznservices.com/di/library/sporting_news/a4/8/sportingnews_blid1xj976d41uqjx0jd6x52p.png",
-         "publishedAt":"2020-06-19T02:00:00Z",
-         "content":"More"
-      },
-      {
-         "source":{
-            "id":null,
             "name":"YouTube"
          },
          "author":null,
-         "title":"UFC Hall Of Famer Clay Guida talks how he stays motivated heading into his 56th PRO FIGHT vs Green - SecondsOut",
-         "description":"In this video UFC legend Clay Guida talks about career longevity and still loving the sport going into his 56th pro fight against Bobby Green. Subscribe for ...",
-         "url":"https://www.youtube.com/watch?v=ncvCH1zhUDw",
-         "urlToImage":"https://i.ytimg.com/vi/ncvCH1zhUDw/maxresdefault.jpg",
-         "publishedAt":"2020-06-19T00:56:28Z",
+         "title":"UFC Vegas 3: Raquel Pennington Post-fight Interview - UFC - Ultimate Fighting Championship",
+         "description":"Raquel Pennington got back in the win column with a unanimous decision victory over Marion Reneau at UFC Vegas 3 on Saturday night. Subscribe to get all the ...",
+         "url":"https://www.youtube.com/watch?v=QXLgSsd6VwA",
+         "urlToImage":"https://i.ytimg.com/vi/QXLgSsd6VwA/maxresdefault.jpg",
+         "publishedAt":"2020-06-21T02:19:24Z",
          "content":null
       },
       {
          "source":{
             "id":null,
-            "name":"Liverpool Echo"
-         },
-         "author":"Mark Wakefield",
-         "title":"Jurgen Klopp explains how key rule change will help Liverpool and why Man City will benefit most - Liverpool Echo",
-         "description":"The Reds have nine league matches remaining in their Premier League campaign",
-         "url":"https://www.liverpoolecho.co.uk/sport/football/football-news/jurgen-klopp-explains-how-key-18448593",
-         "urlToImage":"https://i2-prod.liverpoolecho.co.uk/sport/football/article18438931.ece/ALTERNATES/s1200/0_Klopp-Robertson.jpg",
-         "publishedAt":"2020-06-19T00:21:02Z",
-         "content":"Jurgen Klopp has spoken about how the Premier Leagues rule change that allows clubs to make five substitutions will benefit Liverpool. \r\nThe Reds campaign is due to resume on Sunday with an away trip… [+2208 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"YouTube"
+            "name":"Chelsea FC"
          },
          "author":null,
-         "title":"Free Fight: Ronda Rousey vs Miesha Tate 2 | UFC 168, 2013 - UFC - Ultimate Fighting Championship",
-         "description":"Season 17 of The Ultimate Fighter culminated at UFC 168 when Ronda Rousey faced Miesha Tate for the second time for the UFC bantamweight championship. Subscr...",
-         "url":"https://www.youtube.com/watch?v=yoUbQxvDVss",
-         "urlToImage":"https://i.ytimg.com/vi/yoUbQxvDVss/maxresdefault.jpg",
-         "publishedAt":"2020-06-19T00:06:45Z",
-         "content":null
+         "title":"Premier League top four: Frank Lampard analyses the race | Official Site - Chelsea FC",
+         "description":"Frank Lampard is unsure if the season pause will help or hinder our quest to secure a Champions League place for next season, but what he does know is that his message to the players will remain the same over the coming weeks.",
+         "url":"https://www.chelseafc.com/en/news/2020/06/21/lampard-analyses-the-race-for-the-top-four",
+         "urlToImage":"https://res.cloudinary.com/chelsea-production/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_auto,h_320,q_auto,w_640,z_1.0/v1/editorial/news/2020/06/lampard-training-cobham-stock",
+         "publishedAt":"2020-06-20T23:56:30Z",
+         "content":"Chelsea have nine league games remaining and currently hold a two-point advantage over Manchester United in fifth place, with todays trip to Aston Villa offering us an opportunity to extend that lead… [+1687 chars]"
       },
       {
          "source":{
             "id":null,
-            "name":"YouTube"
+            "name":"Sky Sports"
+         },
+         "author":"David Prutton",
+         "title":"David Prutton's Sky Bet EFL predictions - Sky Sports",
+         "description":"Who is David Prutton tipping for victory as the Sky Bet Championship returns this weekend? Find out here...",
+         "url":"https://www.skysports.com/football/news/34681/12008636/david-pruttons-sky-bet-efl-predictions",
+         "urlToImage":"https://e0.365dm.com/20/03/1600x900/skysports-david-prutton-sky-sports_4937146.jpg",
+         "publishedAt":"2020-06-20T22:29:11Z",
+         "content":"Who is David Prutton tipping for victory as the Sky Bet Championship returns this weekend? Find out here...\r\nFulham vs Brentford, Saturday 12.30pm - Live on Sky Sports Football\r\nWe are back! And what… [+3362 chars]"
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
          },
          "author":null,
-         "title":"Brooks Koepka shoots 4-under 67 | Round 1 | RBC Heritage - PGA TOUR",
-         "description":"In the opening round of the 2020 RBC Heritage, Brooks Koepka turned in a 4-under 67, placing him three strokes off the lead heading into Friday. SUBSCRIBE to...",
-         "url":"https://www.youtube.com/watch?v=4lNYSAb7Xh0",
-         "urlToImage":"https://i.ytimg.com/vi/4lNYSAb7Xh0/maxresdefault.jpg",
-         "publishedAt":"2020-06-18T23:52:48Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"The Real Champs"
-         },
-         "author":"Ben Sundock",
-         "title":"Real Madrid 3 – Valencia 0: Three takeaways from the important win - The Real Champs",
-         "description":"Real Madrid made it two wins in two and tallied three goals once again on Thursday night at the Estadio Alfredo di Stefano. Los Blancos shook off a slow fi...",
-         "url":"https://therealchamps.com/2020/06/18/real-madrid-3-valencia-0-three-takeaways-from-the-important-win/",
-         "urlToImage":"https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Ftherealchamps.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1221051533.jpeg",
-         "publishedAt":"2020-06-18T23:26:55Z",
-         "content":"Electing to deploy a 4-4-2 after experimenting with a 4-3-3 on Sunday, manager Zinedine Zidane’s squad needed some time to adjust to the formation change, but managed to keep the match scoreless thro… [+2279 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Sporting News"
-         },
-         "author":"Sporting News",
-         "title":"Nwakali: Ex-Arsenal midfielder makes losing debut for Huesca against Mirandes - Goal.com",
-         "description":"James Rodriguez deserves more \"respect\" from Zinedine Zidane, according to Faustino Asprilla, who says he would tell the Real Madrid boss to \"eat sh*t\" if he was in the midfielder's shoes.",
-         "url":"https://www.sportingnews.com/ca/soccer",
-         "urlToImage":"https://images.daznservices.com/di/library/sporting_news/a4/8/sportingnews_blid1xj976d41uqjx0jd6x52p.png",
-         "publishedAt":"2020-06-18T23:11:32Z",
-         "content":"More"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Pain In The Arsenal"
-         },
-         "author":"Andrew Dowdeswell",
-         "title":"Arsenal: Mikel Arteta learned just one disastrous lesson - Pain In The Arsenal",
-         "description":"Arsenal were dismantled 3-0 by Manchester City on Wednesday night. Mikel Arteta will have learned almost nothing from the match bar one disastrous outcome....",
-         "url":"https://paininthearsenal.com/2020/06/18/arsenal-mikel-arteta-learned-one-disastrous-lesson/",
-         "urlToImage":"https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fpaininthearsenal.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1220701674.jpeg",
-         "publishedAt":"2020-06-18T23:10:40Z",
-         "content":"Nothing has changed. After three months on the sidelines, football returned on Wednesday night. Sadly, Arsenal did what they do best and utterly floundered under the pressure. Travelling to Mancheste… [+2362 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Tribal Football"
-         },
-         "author":"Freddie Taylor",
-         "title":"Berbatov urges Bayer Leverkusen whizkid Havertz to snub Real Madrid - Tribal Football",
-         "description":"Kai Havertz should reject Real Madrid to stay at Bayer Leverkusen, according to Dimitar Berbatov.The 21-year-old has been linked with Real, Chelsea, Juventus an",
-         "url":"https://www.tribalfootball.com/articles/berbatov-urges-bayer-leverkusen-whizkid-havertz-to-snub-real-madrid-4330252",
-         "urlToImage":"https://images.tribalfootball.com/default/0001/06/thumb_5387_default_large.jpeg",
-         "publishedAt":"2020-06-18T22:53:32Z",
-         "content":"Kai Havertz should reject Real Madrid to stay at Bayer Leverkusen, according to Dimitar Berbatov.\r\nThe 21-year-old has been linked with Real, Chelsea, Juventus and Manchester United.\r\nBut former Leve… [+1494 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"YouTube"
-         },
-         "author":null,
-         "title":"How will NBA players handle living life in 'the bubble'? | SportsCenter - ESPN",
-         "description":"Kendrick Perkins joins SportsCenter to discuss how NBA players will handle living life in \"the bubble\" in Orlando, Florida, and weighs in on Houston GM Daryl...",
-         "url":"https://www.youtube.com/watch?v=Rkgb_7DCp18",
-         "urlToImage":"https://i.ytimg.com/vi/Rkgb_7DCp18/maxresdefault.jpg",
-         "publishedAt":"2020-06-18T22:30:00Z",
-         "content":"Kendrick Perkins joins SportsCenter to discuss how NBA players will handle living life in \"the bubble\" in Orlando, Florida, and weighs in on Houston GM Daryl Morey saying the Rockets have the potenti… [+776 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"YouTube"
-         },
-         "author":null,
-         "title":"UFC on ESPN 11: Raquel Pennington Now Ready for Round Two Against Amanda Nunes - MMA Fighting - MMAFightingonSBN",
-         "description":"#UFC bantamweight vet Raquel Pennington spoke about her fight with Marion Reneau at #UFCVegas3 and how she looks back at her ill-fated title shot against two...",
-         "url":"https://www.youtube.com/watch?v=Ihia-KDrng4",
-         "urlToImage":"https://i.ytimg.com/vi/Ihia-KDrng4/maxresdefault.jpg",
-         "publishedAt":"2020-06-18T22:18:24Z",
+         "title":"Atlético honors virus victims, beats Valladolid to go 3rd - Seattle Times",
+         "description":null,
+         "url":"https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc3BvcnRzL2F0bGV0aWNvLWhvbm9ycy12aXJ1cy12aWN0aW1zLWJlYXRzLXZhbGxhZG9saWQtdG8tZ28tM3JkL9IBY2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc3BvcnRzL2F0bGV0aWNvLWhvbm9ycy12aXJ1cy12aWN0aW1zLWJlYXRzLXZhbGxhZG9saWQtdG8tZ28tM3JkLz9hbXA9MQ?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2020-06-20T22:18:00Z",
          "content":null
       },
       {
@@ -148,25 +57,77 @@
             "name":"Sporting News"
          },
          "author":"Sporting News",
-         "title":"Papiss Cisse’s hat trick propels Alanyaspor past Antalyaspor - Goal.com",
-         "description":"James Rodriguez deserves more \"respect\" from Zinedine Zidane, according to Faustino Asprilla, who says he would tell the Real Madrid boss to \"eat sh*t\" if he was in the midfielder's shoes.",
+         "title":"Enobakhare: Greek side AEK Athens sign Nigerian striker - Goal.com",
+         "description":"Liverpool manager Jurgen Klopp has criticised England's handling of the coronavirus crisis, revealing he feels like an alien for continuing to take it seriously.",
          "url":"https://www.sportingnews.com/ca/soccer",
          "urlToImage":"https://images.daznservices.com/di/library/sporting_news/a4/8/sportingnews_blid1xj976d41uqjx0jd6x52p.png",
-         "publishedAt":"2020-06-18T22:08:00Z",
+         "publishedAt":"2020-06-20T22:05:00Z",
          "content":"More"
       },
       {
          "source":{
             "id":null,
-            "name":"YouTube"
+            "name":"Football.London"
+         },
+         "author":"Connor O'Neill",
+         "title":"Former Chelsea man makes stunning Danny Ings and Pierre-Emerick Aubameyang claim - Football.London",
+         "description":"Aubameyang is Arsenal’s top goal-scorer this season but only has one year left on his deal.",
+         "url":"https://www.football.london/arsenal-fc/transfer-news/danny-ings-pierre-emerick-aubameyang-18458700",
+         "urlToImage":"https://i2-prod.football.london/incoming/article17782192.ece/ALTERNATES/s1200/0_GettyImages-1204603588.jpg",
+         "publishedAt":"2020-06-20T22:04:44Z",
+         "content":"Tony Cascarino has opened up on why he would take Danny Ings over Pierre-Emerick Aubameyang.\r\nAubameyang is Arsenals top goal-scorer this season with 17 Premier League goals and scored an additional … [+2819 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"The18"
          },
          "author":null,
-         "title":"Mark Cuban on the NBA's safety protocol handbook & players speaking out on social justice | OTL - ESPN",
-         "description":"Dallas Mavericks owner Mark Cuban joins Outside the Lines to discuss the NBA's 113-page handbook detailing safety protocols for players during the resumption...",
-         "url":"https://www.youtube.com/watch?v=6bvzdmksalk",
-         "urlToImage":"https://i.ytimg.com/vi/6bvzdmksalk/maxresdefault.jpg",
-         "publishedAt":"2020-06-18T22:00:03Z",
-         "content":null
+         "title":"West Ham Just Found Out How Terrorizing 25 Minutes Of Adama Traoré Can Be - The18",
+         "description":"The Wolves winger sparked a 2-0 win over West Ham on Saturday.",
+         "url":"https://the18.com/soccer-news/adama-traore-vs-west-ham-20200620",
+         "urlToImage":"https://the18.com/sites/default/files/feature-images/20200620-The18-Image-Adama-Traore-vs-West-Ham-GettyImages-1251001753.jpg",
+         "publishedAt":"2020-06-20T21:55:09Z",
+         "content":"LONDON Adama Traore came off the bench to inspire Wolverhampton Wanderers to a 2-0 win at West Ham United on Saturday a significant result at both ends of the Premier League table.\r\nThe quicksilver S… [+2374 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Manchester United"
+         },
+         "author":"Joe Ganley",
+         "title":"Harry Maguire says the Man Utd badge is all the motivation needed against Sheffield Utd - Manchester United",
+         "description":"Harry Maguire explains how the squad will approach our first behind-closed-doors home game, against Sheffield United.",
+         "url":"https://www.manutd.com/en/news/detail/harry-maguire-says-the-man-utd-badge-is-all-the-motivation-needed-against-sheffield-utd",
+         "urlToImage":"https://assets.manutd.com/AssetPicker/images/0/0/13/228/910473/A94T0312_20200619830221911592665250353_large.jpg",
+         "publishedAt":"2020-06-20T21:36:48Z",
+         "content":"“One thing for sure is, every time you put a kit on with the Manchester United badge on it, you don’t need much spurring on, stated the England international.\r\n“You know how big the club is, the hist… [+389 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Football.London"
+         },
+         "author":"Connor O'Neill",
+         "title":"Manchester United goalkeeper David de Gea sends message to Arsenal's Bernd Leno - Football.London",
+         "description":"Leno was stretched off during the first half at the Amex after clashing with Neal Maupay.",
+         "url":"https://www.football.london/arsenal-fc/news/bernd-leno-arsenal-brighton-injury-18459917",
+         "urlToImage":"https://i2-prod.football.london/arsenal-fc/news/article18458773.ece/ALTERNATES/s1200/0_GettyImages-1250975135.jpg",
+         "publishedAt":"2020-06-20T21:34:25Z",
+         "content":"David de Gea has taken to social media to send his well wishes to Bernd Leno after he was stretched off during Arsenals defeat to Brighton.\r\nLeno was stretched off during the first half at the Amex a… [+2353 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"SB Nation"
+         },
+         "author":"yatcli",
+         "title":"Chelsea Transfer Watch: Ben Chilwell hits scores a sensational strike as Leicester City draw against Watford - We Ain't Got No History",
+         "description":"The price has just gone up!",
+         "url":"https://weaintgotnohistory.sbnation.com/2020/6/20/21297754/ben-chilwell-chelsea-transfer-target-hits-a-banger-of-a-goal-leicester-city-watford",
+         "urlToImage":"https://cdn.vox-cdn.com/thumbor/7xnnM5CStvTqFPNO5jZnnrksXYs=/0x0:1377x721/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20044854/1250965402.jpg.jpg",
+         "publishedAt":"2020-06-20T21:25:44Z",
+         "content":"The price has just gone up!"
       },
       {
          "source":{
@@ -174,25 +135,12 @@
             "name":"YouTube"
          },
          "author":null,
-         "title":"Top Finishes: Curtis Blaydes - UFC - Ultimate Fighting Championship",
-         "description":"UFC heavyweight Curtis Blaydes has racked up an impressive list of fight finishes in just a little over four years with the promotion. Subscribe to get all t...",
-         "url":"https://www.youtube.com/watch?v=WA0m6qYq41Q",
-         "urlToImage":"https://i.ytimg.com/vi/WA0m6qYq41Q/maxresdefault.jpg",
-         "publishedAt":"2020-06-18T21:50:48Z",
+         "title":"How Wolves can overtake Manchester United and Chelsea to secure Champions League football | ESPN FC - ESPN UK",
+         "description":"ESPN FC's Steve Nicol, Frank Leboeuf and Julien Laurens react to Wolverhampton topping West Ham 2-0, putting them on level pegging with Manchester United for...",
+         "url":"https://www.youtube.com/watch?v=J1-_HG9uIhc",
+         "urlToImage":"https://i.ytimg.com/vi/J1-_HG9uIhc/maxresdefault.jpg",
+         "publishedAt":"2020-06-20T21:23:51Z",
          "content":null
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"YouTube"
-         },
-         "author":null,
-         "title":"UFC on ESPN 11: Josh Emmett Chose Not To Fight Out UFC Contract - MMA Fighting - MMAFightingonSBN",
-         "description":"#UFC featherweight Josh Emmett talks about his return at #UFCVegas3 after a layoff and his choice not to fight out his previous contract. Subscribe: http://g...",
-         "url":"https://www.youtube.com/watch?v=h83DVzZRKLM",
-         "urlToImage":"https://i.ytimg.com/vi/h83DVzZRKLM/maxresdefault.jpg",
-         "publishedAt":"2020-06-18T21:49:49Z",
-         "content":"#UFC featherweight Josh Emmett talks about his return at #UFCVegas3 after a layoff and his choice not to fight out his previous contract.\r\nSubscribe: http://goo.gl/dYpsgH\r\nCheck out our full video ca… [+423 chars]"
       },
       {
          "source":{
@@ -200,63 +148,115 @@
             "name":"The Hard Tackle"
          },
          "author":"Raghavendra Goudar",
-         "title":"Tottenham Hotspur vs Manchester United Preview: Probable Lineups, Prediction, Tactics, Team News & Key Stats - The Hard Tackle",
-         "description":"Manchester United will resume their pursuit of a top four finish in the Premier League on Friday with a game against former boss Jose Mourinho's Tottenham side. #JoseMourinho #ManchesterUnited #MarcusRashford",
-         "url":"http://www.thehardtackle.com/round-up/2020/06/19/tottenham-hotspur-vs-manchester-united-preview-probable-lineups-prediction-tactics-team-news-key-stats/",
-         "urlToImage":"http://www.thehardtackle.com/wp-content/uploads/2019/12/GettyImages-1186258890-600x315.jpg",
-         "publishedAt":"2020-06-18T21:46:00Z",
-         "content":"Manchester United will resume their pursuit of a top four finish in the Premier League on Friday with a game against former boss Jose Mourinho’s Tottenham side.\r\nThe Premier League made its much-awai… [+7693 chars]"
+         "title":"Real Sociedad vs Real Madrid Preview: Probable Lineups, Prediction, Tactics, Team News & Key Stats - The Hard Tackle",
+         "description":"Real Madrid will be looking to move to the top of the La Liga table when they take on Real Sociedad at the Reale Arena on Sunday night. #KarimBenzema #LaLiga #RealMadrid",
+         "url":"http://www.thehardtackle.com/round-up/2020/06/21/real-sociedad-vs-real-madrid-preview-probable-lineups-prediction-tactics-team-news-key-stats-2/",
+         "urlToImage":"http://www.thehardtackle.com/wp-content/uploads/2019/09/GettyImages-1169961204-600x315.jpg",
+         "publishedAt":"2020-06-20T21:17:00Z",
+         "content":"Real Madrid will be looking to move to the top of the La Liga table when they take on Real Sociedad at the Reale Arena on Sunday night.\r\nReal Madrid will have a great chance to knock Barcelona off th… [+8017 chars]"
       },
       {
          "source":{
             "id":null,
-            "name":"Manchester United"
+            "name":"The Hard Tackle"
          },
-         "author":"Sam Carney",
-         "title":"Ole Gunnar Solskjaer drops Paul Pogba hint before Spurs match - Manchester United",
-         "description":"Will the fit-again Frenchman feature in North London tomorrow? The manager has given an update.",
-         "url":"https://www.manutd.com/en/news/detail/ole-gunnar-solskjaer-drops-paul-pogba-hint-before-spurs-match",
-         "urlToImage":"https://assets.manutd.com/AssetPicker/images/0/0/13/226/910051/A94T8584_20200617121199891592493292096_large.jpg",
-         "publishedAt":"2020-06-18T21:37:36Z",
-         "content":"One of the most tantalising prospects for Reds fans watching all over the globe will be how Pogba dovetails with January signing Bruno Fernandes.\r\nThe Portuguese playmaker became an instant hit with … [+594 chars]"
+         "author":"Keshav Awasty",
+         "title":"Everton vs Liverpool Preview: Probable Lineups, Prediction, Tactics, Team News & Key Stats - The Hard Tackle",
+         "description":"Liverpool can go on the brink of winning the Premier League title when they lock horns with Everton in the Merseyside Derby at Goodison Park on Sunday. #Everton #LiverpoolFC #Mane",
+         "url":"http://www.thehardtackle.com/round-up/2020/06/21/everton-vs-liverpool-preview-probable-lineups-prediction-tactics-team-news-key-stats/",
+         "urlToImage":"http://www.thehardtackle.com/wp-content/uploads/2019/11/GettyImages-1168898531-600x315.jpg",
+         "publishedAt":"2020-06-20T20:37:00Z",
+         "content":"Liverpool can go on the brink of winning the Premier League title when they lock horns with Everton in the Merseyside Derby at Goodison Park on Sunday.\r\nGameweek 30 of the 2019/20 Premier League seas… [+6997 chars]"
       },
       {
          "source":{
             "id":null,
-            "name":"YouTube"
+            "name":"BeSoccer EN"
+         },
+         "author":"BeSoccer",
+         "title":"Bayern eye treble after Lewandowski claims league goal record - BeSoccer EN",
+         "description":"Bayern Munich are eyeing the treble this season after Robert Lewandowski claimed the record for the most goals scored by a foreigner in the Bundesliga as the champions swept past Freiburg 3-1 on Saturday, while Werder Bremen look set to be relegated after los…",
+         "url":"https://www.besoccer.com/new/bayern-eye-treble-after-lewandowski-claims-league-goal-record-849470",
+         "urlToImage":"https://t.resfu.com/media/img_news/afp_en_c6e3e7aaa2d96c593138b2f705718c32b478288d.jpg",
+         "publishedAt":"2020-06-20T20:35:36Z",
+         "content":"Borussia Dortmund wrapped up second place with a 2-0 win at RB Leipzig.\r\nAt a spectator-free Allianz Arena, Joshua Kimmich gave Bayern the lead before Lewandowski scored twice before half-time to giv… [+3778 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Sporting News"
+         },
+         "author":"Sporting News",
+         "title":"'I will never forget' - Cameroon's Nchout relives heroic Women's World Cup memories - Goal.com",
+         "description":"Jurgen Klopp believes it is impossible for Liverpool to emulate Manchester United's era of dominance as they close in on the Premier League title.",
+         "url":"https://www.sportingnews.com/ca/soccer",
+         "urlToImage":"https://images.daznservices.com/di/library/sporting_news/a4/8/sportingnews_blid1xj976d41uqjx0jd6x52p.png",
+         "publishedAt":"2020-06-20T20:27:00Z",
+         "content":"More"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Sporting News"
+         },
+         "author":"Sporting News",
+         "title":"NKoulou and Aina help Torino salvage a point against Gervinho’s Parma - Goal.com",
+         "description":"Jurgen Klopp believes it is impossible for Liverpool to emulate Manchester United's era of dominance as they close in on the Premier League title.",
+         "url":"https://www.sportingnews.com/ca/soccer",
+         "urlToImage":"https://images.daznservices.com/di/library/sporting_news/a4/8/sportingnews_blid1xj976d41uqjx0jd6x52p.png",
+         "publishedAt":"2020-06-20T20:25:00Z",
+         "content":"More"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"ESPN"
          },
          "author":null,
-         "title":"There's no way Dwight Howard can play in Orlando after what he said - Kendrick Perkins | The Jump - ESPN",
-         "description":"Rachel Nichols, Brian Windhorst and Kendrick Perkins discuss the issues facing the Los Angeles Lakers with Dwight Howard indicating he could sit out the NBA'...",
-         "url":"https://www.youtube.com/watch?v=i6e80xmG_14",
-         "urlToImage":"https://i.ytimg.com/vi/i6e80xmG_14/maxresdefault.jpg",
-         "publishedAt":"2020-06-18T20:48:40Z",
-         "content":"Rachel Nichols, Brian Windhorst and Kendrick Perkins discuss the issues facing the Los Angeles Lakers with Dwight Howard indicating he could sit out the NBA's restart in Orlando, Florida. They then d… [+788 chars]"
+         "title":"Getafe vs. Eibar - Football Match Report - June 20, 2020 - ESPN",
+         "description":"Get a report of the Getafe vs. Eibar 2019-2020 LaLiga football match.",
+         "url":"https://www.espn.com/soccer/report?gameId=550316",
+         "urlToImage":"https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0620%2Fr710698_1296x1296_1%2D1.jpg",
+         "publishedAt":"2020-06-20T19:48:33Z",
+         "content":"Getafe's bid to qualify for the Champions League for the first time continued to unravel as they could only draw 1-1 at home to struggling Eibar on Saturday although they escaped a worse fate as a la… [+1642 chars]"
       },
       {
          "source":{
             "id":null,
-            "name":"Mirror Online"
+            "name":"90min"
          },
-         "author":"Darren Wells",
-         "title":"Inter Milan in talks with Man Utd over keeping Alexis Sanchez beyond the summer - Mirror Online",
-         "description":"Sanchez is due to return to United once his loan expires in the coming months, but he could get his wish to stay at Inter for another year with talks ongoing between the two clubs",
-         "url":"https://www.mirror.co.uk/sport/football/transfer-news/inter-milan-talks-man-utd-22216763",
-         "urlToImage":"https://i2-prod.mirror.co.uk/incoming/article22216753.ece/ALTERNATES/s1200/0_SSC-Napoli-v-FC-Internazionale-Coppa-Italia-Semi-Final-Second-Leg.jpg",
-         "publishedAt":"2020-06-18T20:32:57Z",
-         "content":"Inter Milan are reportedly in constant discussions with Man Utd over the possibility of keeping Alexis Sanchez for next season. \r\nThe striker has been on loan at the San Siro since August and is expe… [+1840 chars]"
+         "author":"Adam Aladay",
+         "title":"Pep Guardiola 'in Contact' With Bayer Leverkusen Winger Leon Bailey - 90min",
+         "description":"Manchester City boss Pep Guardiola is said to have been in touch with Bayer Leverkusen's Leon Bailey in order to present the club's vision to the player - but t",
+         "url":"https://www.90min.com/posts/pep-guardiola-in-contact-with-bayer-leverkusen-winger-leon-bailey-01eb936fzgcx",
+         "urlToImage":"https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/FC-Porto-v-Bayer-04-Leverkusen---UEFA-Europa-Leagu-4a29bf43274e412f703e805c0f4f2863.jpg",
+         "publishedAt":"2020-06-20T19:16:55Z",
+         "content":"Manchester City boss Pep Guardiola is said to have been in touch with Bayer Leverkusen's Leon Bailey in order to present the club's vision to the player - but the Sky Blues will face competition for … [+1653 chars]"
       },
       {
          "source":{
             "id":null,
-            "name":"Sky Sports"
+            "name":"The Peoples Person"
          },
-         "author":"Sky Sports",
-         "title":"Watford: Premier League fixtures, injury latest for season restart - Sky Sports",
-         "description":"The Premier League is back - but what shape are Watford in? Fixtures, injury latest, the manager's view and more...",
-         "url":"https://www.skysports.com/football/news/11686/11996282/watford-premier-league-fixtures-injury-latest-ahead-of-season-restart",
-         "urlToImage":"https://e2.365dm.com/20/01/1600x900/skysports-troy-deeney-abdoulaye-doucoure_4898291.jpg",
-         "publishedAt":"2020-06-18T19:36:57Z",
-         "content":"The Premier League is back - but what shape are Watford in for the season restart?\r\nNow that the Premier League is back, we run the rule over Nigel Pearson's side, from fixtures and fitness to the ma… [+7016 chars]"
+         "author":"",
+         "title":"Patrice Evra reveals his feelings on Manchester United's midfield - The Peoples Person",
+         "description":"Manchester United great Patrice Evra has leaped to the defence of Paul Pogba, blasting his critics while having his say on the club's engine room. Ole Gunnar Solskjaer suddenly has lots of options in",
+         "url":"http://thepeoplesperson.com/2020/06/20/patrice-evra-reveals-his-feelings-on-manchester-uniteds-midfield-215734/",
+         "urlToImage":"http://images.thepeoplesperson.com/wp-content/uploads/2020/06/19215239/fbl-eng-pr-tottenham-man-utd-min-300x131.jpg",
+         "publishedAt":"2020-06-20T19:00:00Z",
+         "content":"Manchester United great Patrice Evra has leaped to the defence of Paul Pogba, blasting his critics while having his say on the club’s engine room.\r\nOle Gunnar Solskjaer suddenly has lots of options i… [+1589 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Sporting News"
+         },
+         "author":"Sporting News",
+         "title":"Lukebakio’s goal and assist for Hertha Berlin puts dent on Bayer Leverkusen’s Champions League hopes - Goal.com",
+         "description":"Jurgen Klopp believes it is impossible for Liverpool to emulate Manchester United's era of dominance as they close in on the Premier League title.",
+         "url":"https://www.sportingnews.com/ca/soccer",
+         "urlToImage":"https://images.daznservices.com/di/library/sporting_news/a4/8/sportingnews_blid1xj976d41uqjx0jd6x52p.png",
+         "publishedAt":"2020-06-20T18:29:00Z",
+         "content":"More"
       }
    ]

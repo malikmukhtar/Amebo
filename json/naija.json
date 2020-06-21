@@ -2,15 +2,236 @@
       {
          "source":{
             "id":null,
-            "name":"ScienceAlert"
+            "name":"The Punch"
          },
-         "author":"Michelle Starr",
-         "title":"Physicists Detect Unexplained Particle Interactions While Searching For Dark Matter - ScienceAlert",
-         "description":"Deep beneath the mountains of Gran Sasso in Italy, the world's most sensitive dark matter experiment has made a surprise detection. No, it's not dark matter. Instead, the experiment has detected significantly more particle interaction events than pre",
-         "url":"https://www.sciencealert.com/a-search-for-dark-matter-has-detected-unexplained-particle-interactions",
-         "urlToImage":"https://www.sciencealert.com/images/2020-06/processed/dark-matt-xperiment_cover_particle_activity_1024.jpg",
-         "publishedAt":"2020-06-19T01:43:33Z",
-         "content":"Deep beneath the mountains of Gran Sasso in Italy, the world's most sensitive dark matter experiment has made a surprise detection. No, it's not dark matter. Instead, the experiment has detected sign… [+5441 chars]"
+         "author":null,
+         "title":"Edo primaries: APC dares Obaseki, refuses to apply for permit - The Punch",
+         "description":"No primaries will hold without government approval, gov insists\r\n\r\n \t\r\nIze-Iyamu emerges sole APC aspirant as two others withdraw\r\n\r\n \t\r\nSome APC governors in support of my re-election, says Edo go...",
+         "url":"https://punchng.com/edo-primaries-apc-dares-obaseki-refuses-to-apply-for-permit/",
+         "urlToImage":"https://cdn.punchng.com/wp-content/uploads/2020/06/14041528/Godwin-Obaseki4.jpg",
+         "publishedAt":"2020-06-21T01:26:00Z",
+         "content":"<ul><li>No primaries will hold without government approval, gov insists\r\n</li><li>Ize-Iyamu emerges sole APC aspirant as two others withdraw\r\n</li><li>Some APC governors in support of my re-election,… [+12131 chars]"
+      },
+      {
+         "source":{
+            "id":"al-jazeera-english",
+            "name":"Al Jazeera English"
+         },
+         "author":"Al Jazeera",
+         "title":"Top New York prosecutor leaves job after standoff with Barr - Al Jazeera English",
+         "description":"Geoffrey Berman agrees to leave his job with assurance investigations into president’s allies would not be disturbed.",
+         "url":"https://www.aljazeera.com/news/2020/06/barr-trump-fires-top-federal-prosecutor-manhattan-200620202602259.html",
+         "urlToImage":"https://www.aljazeera.com/mritems/Images/2020/6/20/52e6353a25304d3e9eb89b4048a0c111_18.jpg",
+         "publishedAt":"2020-06-21T01:20:44Z",
+         "content":"An extraordinary standoff between Attorney General William Barr and Manhattans top federal prosecutor ended on Saturday when the prosecutor agreed to leave his job with an assurance that investigatio… [+4298 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Daily Trust"
+         },
+         "author":null,
+         "title":"Nutritionist reveals medicinal properties of common foods, encourages use to stay healthy - Daily Trust",
+         "description":"Sheela Mahdavi is using TikTok to educate the masses on how a number of natural foods can help treat certain ailments and possibly prevent disease. So far, the 28-year-old from California has poste…",
+         "url":"https://www.dailytrust.com.ng/nutritionist-reveals-medicinal-properties-of-common-foods-encourages-use-to-stay-healthy.html",
+         "urlToImage":"https://cdn.dailytrust.com.ng/wp-content/uploads/2020/06/Nutritionist-reveals-medicinal.jpg",
+         "publishedAt":"2020-06-21T01:03:00Z",
+         "content":"Sheela Mahdavi is using TikTok to educate the masses on how a number of natural foods can help treat certain ailments and possibly prevent disease. So far, the 28-year-old from California has posted … [+6766 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Vanguard"
+         },
+         "author":"https://www.facebook.com/bankoleidowuemmanuel",
+         "title":"Some Universities admitted students illegally in 2019 session — JAMB - Vanguard",
+         "description":"SOME universities in the country did not comply with the rules set by the Joint Admissions and Matriculation Board in the 2019 session...",
+         "url":"https://www.vanguardngr.com/2020/06/some-universities-admitted-students-illegally-in-2019-session-jamb/",
+         "urlToImage":"https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/04/Prof.-Ishaq-Oloyede-of-JAMB.jpg?fit=620%2C400&ssl=1",
+         "publishedAt":"2020-06-21T00:13:34Z",
+         "content":"By Joseph Erunke\r\nSOME universities in the country did not comply with the rules set by the Joint Admissions and Matriculation Board in the 2019 session in the admission process.\r\nThe institutions, a… [+1297 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"The Nation Newspaper "
+         },
+         "author":null,
+         "title":"BREAKING: Nigeria records 661 new cases of COVID-19, total now 19,808 - The Nation Newspaper ",
+         "description":"Nigeria has recorded 661 new cases of the CoronavirusAccording to a tweet from the Nigeria Centre for Disease Control (NCDC) on Saturday night",
+         "url":"https://thenationonlineng.net/breaking-nigeria-records-661-new-cases-of-covid-19-total-now-19808/",
+         "urlToImage":"https://thenationonlineng.net/wp-content/uploads/2020/05/Coronavirus.jpg",
+         "publishedAt":"2020-06-20T22:58:17Z",
+         "content":"Nigeria has recorded 661 new cases of the Coronavirus\r\nAccording to a tweet from the Nigeria Centre for Disease Control (NCDC) on Saturday night, the total number of confirmed COVID-19 cases in Niger… [+582 chars]"
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":null,
+         "title":"Atlético honors virus victims, beats Valladolid to go 3rd - Seattle Times",
+         "description":null,
+         "url":"https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc3BvcnRzL2F0bGV0aWNvLWhvbm9ycy12aXJ1cy12aWN0aW1zLWJlYXRzLXZhbGxhZG9saWQtdG8tZ28tM3JkL9IBY2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc3BvcnRzL2F0bGV0aWNvLWhvbm9ycy12aXJ1cy12aWN0aW1zLWJlYXRzLXZhbGxhZG9saWQtdG8tZ28tM3JkLz9hbXA9MQ?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2020-06-20T22:18:00Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"The Hard Tackle"
+         },
+         "author":"Raghavendra Goudar",
+         "title":"Real Sociedad vs Real Madrid Preview: Probable Lineups, Prediction, Tactics, Team News & Key Stats - The Hard Tackle",
+         "description":"Real Madrid will be looking to move to the top of the La Liga table when they take on Real Sociedad at the Reale Arena on Sunday night. #KarimBenzema #LaLiga #RealMadrid",
+         "url":"http://www.thehardtackle.com/round-up/2020/06/21/real-sociedad-vs-real-madrid-preview-probable-lineups-prediction-tactics-team-news-key-stats-2/",
+         "urlToImage":"http://www.thehardtackle.com/wp-content/uploads/2019/09/GettyImages-1169961204-600x315.jpg",
+         "publishedAt":"2020-06-20T21:17:00Z",
+         "content":"Real Madrid will be looking to move to the top of the La Liga table when they take on Real Sociedad at the Reale Arena on Sunday night.\r\nReal Madrid will have a great chance to knock Barcelona off th… [+8017 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"The Hard Tackle"
+         },
+         "author":"Anas Ali",
+         "title":"Arsenal Player Ratings vs Brighton & Hove Albion: 8/10 Lacazette the only bright spot in dismal defeat - The Hard Tackle",
+         "description":"Alexandre Lacazette was the only bright spot in an otherwise dire performance from Arsenal, who tasted a 2-1 defeat at the hands of Brighton & Hove Albion. #AlexandreLacazette #ArsenalFC #Brighton",
+         "url":"http://www.thehardtackle.com/round-up/2020/06/21/arsenal-player-ratings-vs-brighton-hove-albion-810-lacazette-the-only-bright-spot-in-dismal-defeat/",
+         "urlToImage":"http://www.thehardtackle.com/wp-content/uploads/2019/12/GettyImages-1183799765-600x315.jpg",
+         "publishedAt":"2020-06-20T21:14:00Z",
+         "content":"Alexandre Lacazette was the only bright spot in an otherwise dire performance from Arsenal, who tasted a 2-1 defeat at the hands of Brighton &amp; Hove Albion.\r\nBrighton &amp; Hove Albion completed t… [+7394 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"The Nation Newspaper "
+         },
+         "author":null,
+         "title":"BREAKING: Wike locks down Bonny, Onne - The Nation Newspaper ",
+         "description":"Rivers Government has imposed a total lockdown of Bonny Local Government Area and Onne Community in Eleme Local Government Areas with effect",
+         "url":"https://thenationonlineng.net/breaking-wike-locks-down-bonny-onne/",
+         "urlToImage":"https://thenationonlineng.net/wp-content/uploads/2019/10/Nyesom-Wike.jpg",
+         "publishedAt":"2020-06-20T21:01:04Z",
+         "content":"Mike Odiegwu, Port Harcourt\r\nRivers Government has imposed a total lockdown of Bonny Local Government Area and Onne Community in Eleme Local Government Areas with effect from June 21 to check the spr… [+1432 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"The Peoples Person"
+         },
+         "author":"",
+         "title":"Patrice Evra reveals his feelings on Manchester United's midfield - The Peoples Person",
+         "description":"Manchester United great Patrice Evra has leaped to the defence of Paul Pogba, blasting his critics while having his say on the club's engine room. Ole Gunnar Solskjaer suddenly has lots of options in",
+         "url":"http://thepeoplesperson.com/2020/06/20/patrice-evra-reveals-his-feelings-on-manchester-uniteds-midfield-215734/",
+         "urlToImage":"http://images.thepeoplesperson.com/wp-content/uploads/2020/06/19215239/fbl-eng-pr-tottenham-man-utd-min-300x131.jpg",
+         "publishedAt":"2020-06-20T19:00:00Z",
+         "content":"Manchester United great Patrice Evra has leaped to the defence of Paul Pogba, blasting his critics while having his say on the club’s engine room.\r\nOle Gunnar Solskjaer suddenly has lots of options i… [+1589 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Ghgossip.com"
+         },
+         "author":"NattyGh",
+         "title":"Regina Daniels Gushes Over Her Step-Daughter, Julia's Latest Photo - GH Gossip",
+         "description":"ADVERTISEMENT Julia left her stepmother, Regina Daniels stunned today when she shared an adorable photo of herself on her Instagram account today. READ ALSO: How Nana Aba Anamoah’s Birthday Went From “Aww To Yawa” The billionaire daughter looked extremely bea…",
+         "url":"https://www.ghgossip.com/regina-daniels-gushes-over-her-step-daughter-julias-latest-photo/",
+         "urlToImage":"https://i1.wp.com/media.ghgossip.com/wp-content/uploads/2020/06/20150046/FotoJet-6.jpg?fit=900%2C600&ssl=1",
+         "publishedAt":"2020-06-20T18:42:00Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Thecable.ng"
+         },
+         "author":"👤by TheCable",
+         "title":"Obaseki: Some APC governors are supporting me - TheCable",
+         "description":"Godwin Obaseki, governor of Edo state, says some governors of the All Progressives Congress (APC) are still supporting him despite his defection to the Peoples Democratic Party (PDP). Obaseki announced",
+         "url":"https://www.thecable.ng/obaseki-some-apc-governors-are-supporting-me",
+         "urlToImage":"https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2020/06/Obaseki-6.jpg",
+         "publishedAt":"2020-06-20T18:29:00Z",
+         "content":"Godwin Obaseki, governor of Edo state, says some governors of the All Progressives Congress (APC) are still supporting him despite his defection to the Peoples Democratic Party (PDP).\r\nObaseki announ… [+1729 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"BBC News"
+         },
+         "author":"https://www.facebook.com/bbcnews",
+         "title":"Ibidunni Ighodalo: Biography of di late Pastor of Trinity House Church and founder of Elizabeth R events company - BBC News",
+         "description":"Di sudden death of Ibidunni Ighodalo at di age of 39 shock many pipo for Nigeria.",
+         "url":"https://www.bbc.com/pidgin/tori-53121132",
+         "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_pidgin/FA78/production/_113002146_104169743_1520989094773478_2074830476483043098_n.jpg",
+         "publishedAt":"2020-06-20T17:52:55Z",
+         "content":"Image copyrightOther\r\nDi sudden death of Ibidunni Ighodalo, Pastor of Trinity House Church and founder of Elizabeth R events management company on di 14th of June, 2020, shock many pipo.\r\nTributes fr… [+1919 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"As.com"
+         },
+         "author":"AS English",
+         "title":"Blood types and coronavirus: How many blood groups are there and what is the risk? - AS English",
+         "description":"Blood types may play a big role in which Covid-19 patients get the sickest and it may help determine your odds of contracting the virus.",
+         "url":"https://en.as.com/en/2020/06/20/latest_news/1592675565_099646.html",
+         "urlToImage":"https://as01.epimg.net/en/imagenes/2020/06/20/latest_news/1592675565_099646_1592675742_noticia_normal.jpg",
+         "publishedAt":"2020-06-20T17:52:45Z",
+         "content":"A study published by the New England Journal of Medicine has found that people with type A blood were associated with a 45% higher risk of acquiring Covid-19 compared to people with other blood types… [+1330 chars]"
+      },
+      {
+         "source":{
+            "id":"the-washington-post",
+            "name":"The Washington Post"
+         },
+         "author":"Christian Davenport",
+         "title":"Boeing tried to amend bid after guidance from NASA official, raising concerns it received inside information - The Washington Post",
+         "description":"After a top NASA official improperly contacted a senior Boeing executive about its bid to win a contract potentially worth hundreds of millions of dollars, Boeing tried to change its bid, alarming NASA officials.",
+         "url":"https://www.washingtonpost.com/technology/2020/06/20/nasa-boeing-bid-probe/",
+         "urlToImage":"https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/62WKXIE264I6VCP5FD5TCPIYQY.jpg&w=1440",
+         "publishedAt":"2020-06-20T16:50:42Z",
+         "content":"Boeing did not win one of the lucrative contracts to build a system capable of landing astronauts on the moon. But the inspector general investigation could be another headache for a company under fi… [+6132 chars]"
+      },
+      {
+         "source":{
+            "id":"independent",
+            "name":"Independent"
+         },
+         "author":"Peter Stubley",
+         "title":"Mass extinction 450 million years ago 'triggered by volcanic eruptions and global warming' - The Independent",
+         "description":"The Late Ordovician event killed around 85 per cent of all marine species",
+         "url":"https://www.independent.co.uk/news/science/mass-extinction-climate-change-volcano-eruption-study-ordovician-a9577271.html",
+         "urlToImage":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/04/14/10/ordovician-fossil-trilobite.jpg",
+         "publishedAt":"2020-06-20T16:02:03Z",
+         "content":"The Independent employs reporters around the world to bring you truly independent journalism. To support us, please consider a contribution.\r\nEarths first major mass extinction could have been trigge… [+16829 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"AZCentral"
+         },
+         "author":"Ryan Randazzo",
+         "title":"Yes, your iPhone and Android devices have a COVID-19 tracker (sort of) — but here's why you shouldn't worry - AZCentral",
+         "description":"Apple and Google announced the platform was coming in April, and it's been widely reported in the technology press. It's not yet active in Arizona.",
+         "url":"https://www.azcentral.com/story/money/business/consumers/2020/06/20/arizona-coronavirus-tracker-iphone-ios-android/3225935001/",
+         "urlToImage":"https://www.gannett-cdn.com/presto/2019/02/14/PPHX/1abd8932-529f-4bc9-acee-988d0e34f5c9-pexels-photo-249324.jpeg?crop=499,285,x0,y5&width=1600&height=800&fit=bounds",
+         "publishedAt":"2020-06-20T15:19:26Z",
+         "content":"Yes, your phone might already have a tool to help track COVID-19 on it. No, it's not tracking you in Arizona.\r\nMany Arizonans were surprised this week to see that their phones have a COVID-19 trackin… [+6077 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Nairametrics"
+         },
+         "author":"Emmanuel Abara Benson",
+         "title":"Worry for PFAs as pandemic-induced unemployment lowers new pension accounts - Nairametrics",
+         "description":"Many companies are unable to create new jobs, hence the problem pension fund managers have noticed.",
+         "url":"https://nairametrics.com/2020/06/20/worry-for-pfas-as-pandemic-induced-unemployment-means-no-new-pension-accounts/",
+         "urlToImage":"https://i2.wp.com/nairametrics.com/wp-content/uploads/2015/05/pension-e1553174580533.jpg?resize=900%2C599&ssl=1",
+         "publishedAt":"2020-06-20T14:05:15Z",
+         "content":"In what looked like sayings from Nostradamus (the man who saw tomorrow), various media houses all over the world predicted that pension funds would be hit hard by COVID-19.\r\nOn April 1st 2020, Bloomb… [+3790 chars]"
       },
       {
          "source":{
@@ -18,181 +239,12 @@
             "name":"The Punch"
          },
          "author":null,
-         "title":"APC factions continue battle as court affirms Giadom party chair - The Punch",
-         "description":"• NWC consults S’South stakeholders for deputy secretary’s replacement\r\n• Ajimobi’s men inaugurate Uzodinma committee, appeal panel on Edo poll\r\nJohn Alechenu and Ade Adesomoju\r\nThe two factions of...",
-         "url":"https://punchng.com/apc-factions-continue-battle-as-court-affirms-giadom-party-chair/",
-         "urlToImage":"https://cdn.punchng.com/wp-content/uploads/2020/06/17122200/APC-Gaidom.fw_.png",
-         "publishedAt":"2020-06-19T00:36:47Z",
-         "content":"NWC consults SSouth stakeholders for deputy secretarys replacement\r\n Ajimobis men inaugurate Uzodinma committee, appeal panel on Edo poll\r\nJohn Alechenu and Ade Adesomoju\r\nThe two factions of the All… [+8917 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"CNET"
-         },
-         "author":"Jackson Ryan",
-         "title":"Dark matter detector picks up unexplained and 'unexpected' signals - CNET",
-         "description":"Could this be new physics? Or is it a simple case of contamination?",
-         "url":"https://www.cnet.com/news/dark-matter-detector-picks-up-unexplained-and-unexpected-signals/",
-         "urlToImage":"https://cnet3.cbsistatic.com/img/YCk7ifayEDMw2yWNMG57wx2G07c=/756x567/2020/06/18/1c1ca027-8028-449e-b8f1-86f41ef5c555/lang-xepr1.jpg",
-         "publishedAt":"2020-06-18T23:55:01Z",
-         "content":"The detector at Gran Sasso \r\nXenon Collaboration\r\nAn underground dark matter experiment, about a mile below Italy's Abruzzo mountains, has detected unexplained \"excess events,\" hinting at the possibi… [+4010 chars]"
-      },
-      {
-         "source":{
-            "id":"business-insider",
-            "name":"Business Insider"
-         },
-         "author":null,
-         "title":"A 'ring of fire' solar eclipse will take place on Sunday — here's how to see it - Pulse Nigeria",
-         "description":"A rare \"   ring of fire  \" solar eclipse will take place on Sunday.",
-         "url":"https://www.businessinsider.com/watch-annular-ring-of-fire-solar-eclipse-video-2020-6",
-         "urlToImage":"https://ocdn.eu/pulscms-transforms/1/DUDktktTURBXy9hOWYwYjMzOC1jYmVjLTQwZjQtOTQwMC02OTUxZDFmMTM4NmIucG5nkZMFzQSwzQJ2",
-         "publishedAt":"2020-06-18T23:48:53Z",
-         "content":"<ul><li> This type of annular solar eclipse occurs when the moon is at the farthest point in its orbit and moves between Earth and the sun. </li><li> Because the moon is not big enough to totally blo… [+2576 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Pain In The Arsenal"
-         },
-         "author":"Andrew Dowdeswell",
-         "title":"Arsenal: Mikel Arteta learned just one disastrous lesson - Pain In The Arsenal",
-         "description":"Arsenal were dismantled 3-0 by Manchester City on Wednesday night. Mikel Arteta will have learned almost nothing from the match bar one disastrous outcome....",
-         "url":"https://paininthearsenal.com/2020/06/18/arsenal-mikel-arteta-learned-one-disastrous-lesson/",
-         "urlToImage":"https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fpaininthearsenal.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1220701674.jpeg",
-         "publishedAt":"2020-06-18T23:10:40Z",
-         "content":"Nothing has changed. After three months on the sidelines, football returned on Wednesday night. Sadly, Arsenal did what they do best and utterly floundered under the pressure. Travelling to Mancheste… [+2362 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Vanguard"
-         },
-         "author":"David O Royal",
-         "title":"JUST IN: Nigeria’s COVID-19 cases rise to 18,480 as country records 745 new cases - Vanguard",
-         "description":null,
-         "url":"https://www.vanguardngr.com/2020/06/nigerias-covid-19-cases-rise-to-18480-as-country-records-745-new-cases/",
-         "urlToImage":null,
-         "publishedAt":"2020-06-18T23:06:19Z",
-         "content":"The Nigeria Centre for Disease Control (NCDC) has announced Nigerias single highest one-day coronavirus cases in the country on Thursday with 745 cases reported in 24 hours.\r\nThe NCDC also announced … [+621 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Saharareporters.com"
-         },
-         "author":"siteadmin",
-         "title":"Obinwanne Okeke 'Invictus' Pleads Guilty To $11m Fraud In United States - SaharaReporters.com",
-         "description":"The 32-year old admitted to American prosecutors that he was involved in computer-based fraud between 2015 and 2019.",
-         "url":"http://saharareporters.com/2020/06/18/obinwanne-okeke-invictus-pleads-guilty-11m-fraud-united-states",
-         "urlToImage":null,
-         "publishedAt":"2020-06-18T22:00:33Z",
-         "content":"Obinwanne Okeke, Nigerian businessman and owner of Invictus Group, has pleaded guilty to fraud in the United States.\r\nHe is expected to be sentenced on October 22.\r\nOkeke, who was arrested in August … [+1247 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Nairametrics"
-         },
-         "author":"William Ukpe",
-         "title":"Brent crude recovers to 90% of pre-coronavirus levels, as global demand rises - Nairametrics",
-         "description":"The oil market is stabilising amidst compliance of OPEC+ members with the agreement to cut oil production.",
-         "url":"https://nairametrics.com/2020/06/18/brent-crude-recovers-to-just-10-as-global-demand-rises/",
-         "urlToImage":"https://i2.wp.com/nairametrics.com/wp-content/uploads/2020/04/oil-now.jpg?resize=900%2C552&ssl=1",
-         "publishedAt":"2020-06-18T21:55:10Z",
-         "content":"Earlier today, gold rose during the Asian session following news on the United States Federal Reserve boosting its program of buying corporate debt. Given fears of a second wave of the pandemic, the … [+1340 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"YouTube"
-         },
-         "author":null,
-         "title":"Recap: Excuses Will No Longer Be Tolerated, Buhari Tells Service Chiefs - Channels Television",
-         "description":"President Muhammadu Buhari is not pleased with the way insecurity is being handled in many parts of the country and is not mincing words about it. Find this ...",
-         "url":"https://www.youtube.com/watch?v=9yNEe9gVmQs",
-         "urlToImage":"https://i.ytimg.com/vi/9yNEe9gVmQs/maxresdefault.jpg",
-         "publishedAt":"2020-06-18T21:41:27Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Ghgossip.com"
-         },
-         "author":"Andy Ashong",
-         "title":"The Moment Davido CRIED & Went Down On His Knees Begging Chioma To Comeback - GH Gossip",
-         "description":"ADVERTISEMENT Truth be told, Davido really loves Chioma to the core and as such he has shared an emotional photo of himself crying and begging Chioma to return. In a photo he posted on his Snapchat handle, the FALL hit maker was seen crying his heart out. The…",
-         "url":"https://www.ghgossip.com/the-moment-davido-cried-went-down-on-his-knees-begging-chioma-to-comeback/",
-         "urlToImage":"https://i0.wp.com/media.ghgossip.com/wp-content/uploads/2020/06/18211316/Davido-crying.jpg?fit=900%2C600&ssl=1",
-         "publishedAt":"2020-06-18T21:30:00Z",
-         "content":"Truth be told, Davido really loves Chioma to the core and as such he has shared an emotional photo of himself crying and begging Chioma to return.\r\nIn a photo he posted on his Snapchat handle, the FA… [+310 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Vanguard"
-         },
-         "author":"Urowayino Jeremiah",
-         "title":"UK govt set to tackle conflict-related sexual violence - Vanguard",
-         "description":"ABUJA: UK Government has said it is committed to tackling conflict-related sexual violence all over the world.",
-         "url":"https://www.vanguardngr.com/2020/06/uk-govt-set-to-tackle-conflict-related-sexual-violence/",
-         "urlToImage":"https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/10/boris-johnson.jpg?fit=968%2C681&ssl=1",
-         "publishedAt":"2020-06-18T21:16:20Z",
-         "content":"British Prime Minister, Boris Johnson\r\nBy Victoria Ojeme\r\nABUJA: UK Government has said it is committed to tackling conflict-related sexual violence all over the world.\r\nIn a statement made available… [+2191 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Saharareporters.com"
-         },
-         "author":"siteadmin",
-         "title":"BREAKING: Ajimobi Alive, Family Says As Ex-Oyo Governor Slips Into Coma Due To Coronavirus Complications - SaharaReporters.com",
-         "description":"A family source, who confirmed the news to SaharaReporters on Thursday night, said, \"Ajimobi is alive. He only slipped into coma. We are praying to God for his revival.\"",
-         "url":"http://saharareporters.com/2020/06/18/breaking-ajimobi-alive-family-says-ex-oyo-governor-slips-coma-due-coronavirus",
-         "urlToImage":null,
-         "publishedAt":"2020-06-18T20:58:52Z",
-         "content":"A former governor of Oyo State, Abiola Ajimobi, has slipped into coma as a result of Coronavirus complications.\r\nAjimobi has been in Intensive Care Unit at First Cardiology Hospital, Ikoyi, Lagos, si… [+911 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"THISDAY Newspapers"
-         },
-         "author":null,
-         "title":"Court of Appeal Set Aside FHC's order Restraining Edo APC from Holding Governorship Direct Primary - THISDAY Newspapers",
-         "description":"Adibe Emenyonu in Benin City The Court of Appeal in Benin has set aside the order of the Federal High Court from conducting the June 22 Governorship primary using direct mode. The appellate court also ordered the continuation of the trial at FHC, which will h…",
-         "url":"https://www.thisdaylive.com/index.php/2020/06/18/court-of-appeal-set-aside-fhcs-order-restraining-edo-apc-from-holding-governorship-direct-primary/",
-         "urlToImage":"https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2018/08/79ccc373-court.jpg",
-         "publishedAt":"2020-06-18T20:21:55Z",
-         "content":"Adibe Emenyonu in Benin City\r\nThe Court of Appeal in Benin has set aside the order of the Federal High Court from conducting the June 22 Governorship primary using direct mode.\r\nThe appellate court a… [+1884 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"THISDAY Newspapers"
-         },
-         "author":null,
-         "title":"WHO Declares Nigeria Polio Free - THISDAY Newspapers",
-         "description":"Don’t stop vaccination until entire world is free, Tomori warns Nigeria Martins Ifijeh The World Health Organisation (WHO) has declared Nigeria polio free, leaving the devastating disease endemic in only two countries of the world; Afghanistan and Pakistan. T…",
-         "url":"https://www.thisdaylive.com/index.php/2020/06/18/who-declares-nigeria-polio-free/",
-         "urlToImage":"https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/10/636da71b-who.jpg",
-         "publishedAt":"2020-06-18T19:56:17Z",
-         "content":"<ul><li>Dont stop vaccination until entire world is free, Tomori warns Nigeria</li></ul>Martins Ifijeh\r\nThe World Health Organisation (WHO) has declared Nigeria polio free, leaving the devastating di… [+3038 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Daily Post Nigeria"
-         },
-         "author":"Ifreke Inyang",
-         "title":"COVID-19: Six airlines meet requirements to resume flights in Nigeria - Daily Post Nigeria",
-         "description":"The Nigerian Civil Aviation Authority (NCAA) has disclosed that six airlines have passed the airworthiness requirements, in readiness for the resumption of commercial flight operations. NCAA's Director for Airworthiness Standards, Ita Awak, stated this during…",
-         "url":"https://dailypost.ng/2020/06/18/covid-19-six-airlines-meet-requirements-to-resume-flights-in-nigeria/",
-         "urlToImage":"https://dailypost.ng/wp-content/uploads/2020/05/Lagos_Airport_Iwelumo-5.jpg",
-         "publishedAt":"2020-06-18T19:12:11Z",
-         "content":"The Nigerian Civil Aviation Authority (NCAA) has disclosed that six airlines have passed the airworthiness requirements, in readiness for the resumption of commercial flight operations.\r\nNCAAs Direct… [+654 chars]"
+         "title":"APC becoming threat to Buhari's regime – Odigie-Oyegun - The Punch",
+         "description":"John Alechenu, Abuja\r\n\r\nFormer National Chairman of the All Progressives Congress, Chief John Odigie-Oyegun, has said the APC was fast becoming a threat to the regime of the President, Major Genera...",
+         "url":"https://punchng.com/apc-becoming-a-threat-to-buhari-odigie-oyegun/",
+         "urlToImage":"https://cdn.punchng.com/wp-content/uploads/2018/04/09150851/Buhari-Oyegun1.jpg",
+         "publishedAt":"2020-06-20T12:59:34Z",
+         "content":"John Alechenu, Abuja\r\nFormer National Chairman of the All Progressives Congress, Chief John Odigie-Oyegun, has said the APC was fast becoming a threat to the regime of the President, Major General Mu… [+1789 chars]"
       },
       {
          "source":{
@@ -200,63 +252,11 @@
             "name":"Guardian Nigeria"
          },
          "author":null,
-         "title":"Celebrities React To Seyitan-Dbanj Alleged Rape ControversiesGuardian Life - Guardian Nigeria",
-         "description":"Dapo Oyebanjo aka D’banj slammed Seyitan Babatayo with a N100 million defamation lawsuit after she accused him of rape and she has allegedly \"disappeared\".",
-         "url":"https://guardian.ng/life/celebrities-react-to-seyitan-dbanj-alleged-rape-controversies/",
-         "urlToImage":"https://guardian.ng/wp-content/uploads/2020/06/EaycYC1XsAAOhGa-e1592493725343.jpg",
-         "publishedAt":"2020-06-18T18:03:05Z",
-         "content":"Barely 48 hours after Nigerian singer, Dapo Oyebanjo aka Dbanj, slammed Seyitan Babatayo with a N100 million defamation lawsuit after she claimed that he raped her, incidents have taken a different t… [+1447 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Nairametrics"
-         },
-         "author":"Opeoluwa Dapo-Thomas",
-         "title":"How substantial is compliance for the Oil market? - Nairametrics",
-         "description":"Nigeria is striving towards complying fully with its OPEC+ cut obligations by mid-July.",
-         "url":"https://nairametrics.com/2020/06/18/how-substantial-is-compliance-for-the-oil-market/",
-         "urlToImage":"https://i2.wp.com/nairametrics.com/wp-content/uploads/2019/07/crude-oil.jpg?resize=900%2C563&ssl=1",
-         "publishedAt":"2020-06-18T17:40:18Z",
-         "content":"Intercity Bank, First Interstate Bank, Tropical Commercial Bank, Pacific Bank Limited, Centre Point Bank, SocieteBancaire, NNB International Bank, Bank of the North, and New Africa Bank; these are al… [+4195 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Live Science"
-         },
-         "author":"Laura Geggel",
-         "title":"Ancient Antarctic sea monster may have laid this football-size egg - Livescience.com",
-         "description":"",
-         "url":"https://www.livescience.com/fossil-egg-antarctica.html",
-         "urlToImage":"https://cdn.mos.cms.futurecdn.net/tDivZqjjXvo5xN7LW9b7Jf-1200-80.jpg",
-         "publishedAt":"2020-06-18T17:08:00Z",
-         "content":"A 68 million-year-old egg the size of a football the largest soft-shelled egg on record and the second largest egg ever discovered might belong to a mosasaur, a reptilian sea monster that lived durin… [+6829 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Nairametrics"
-         },
-         "author":"Lawretta Egba",
-         "title":"Dollar and yen gain over COVID-19 panic and economic outlook | - Nairametrics",
-         "description":"The dollar traded at $1.1234 per euro on Thursday,  yen also increased to 106.79 against the dollar, while Sterling went down to $1.2533",
-         "url":"https://nairametrics.com/2020/06/18/dollar-and-yen-gain-over-covid-19-panic-and-economic-outlook/",
-         "urlToImage":"https://i1.wp.com/nairametrics.com/wp-content/uploads/2020/06/Dollar-and-yen.jpg?resize=900%2C564&ssl=1",
-         "publishedAt":"2020-06-18T17:01:02Z",
-         "content":"A Business Day report estimates the backlog in FX demand at c.US$7bn. According to the report, the estimate of US$7bn was arrived at by bankers who say manufacturers have unmet dollar demand of US$2b… [+2119 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"As.com"
-         },
-         "author":"Perform",
-         "title":"Barcelona: Setién urges UEFA to allow Napoli game to be played at Camp Nou - AS English",
-         "description":"Quique Setien saw Barcelona draw at Napoli back in February, and he says the Italians should not be spared a Camp Nou trip.",
-         "url":"https://en.as.com/en/2020/06/18/football/1592488400_233924.html",
-         "urlToImage":"https://as01.epimg.net/en/imagenes/2020/06/18/football/1592488400_233924_noticia_normal.jpg",
-         "publishedAt":"2020-06-18T15:42:51Z",
-         "content":"Quique Setién has called for UEFA to allow Barcelona to play out their Champions League Last 16 return leg against Napoli at Camp Nou rather than at a neutral ground. A 1-1 draw in Naples on 25 Febru… [+1573 chars]"
+         "title":"China to set up 'national security agency' in Hong Kong - Guardian",
+         "description":"China will set up a \"national security agency\" in Hong Kong to oversee a forthcoming new law aimed at cracking down",
+         "url":"https://guardian.ng/news/china-to-set-up-national-security-agency-in-hong-kong/",
+         "urlToImage":"https://guardian.ng/wp-content/uploads/2020/06/images.jpeg-206.jpg",
+         "publishedAt":"2020-06-20T11:42:00Z",
+         "content":"China will set up a “national security agency” in Hong Kong to oversee a forthcoming new law aimed at cracking down on dissent in the city, state media said on Saturday.\r\nThe new law also would overr… [+1322 chars]"
       }
    ]

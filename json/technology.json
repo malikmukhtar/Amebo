@@ -1,16 +1,29 @@
 [
       {
          "source":{
-            "id":null,
-            "name":"VentureBeat"
+            "id":"engadget",
+            "name":"Engadget"
          },
-         "author":"Mike Minotti",
-         "title":"EA Play 2020: Everything announced - VentureBeat",
-         "description":"Electronic Arts held its big EA Play 2020 event today, showing off some upcoming games and announcing a few big ones (including Skate 4).",
-         "url":"https://venturebeat.com/2020/06/18/ea-play-2020-everything-announced/",
-         "urlToImage":"https://venturebeat.com/wp-content/uploads/2020/06/squadrons-1.jpg?w=1200&strip=all",
-         "publishedAt":"2020-06-19T00:47:17Z",
-         "content":"Electronic Arts held its big EA Play 2020 event today, showing off some upcoming games and announcing a few big ones.\r\nBelow, weve rounded up everything that EA had at its event, including an awesome… [+2100 chars]"
+         "author":"",
+         "title":"Samsung Blu-ray players are trapped in a startup loop - Engadget",
+         "description":"Reports have surfaced of Samsung Blu-ray players getting caught in loops that render them inoperable.",
+         "url":"https://www.engadget.com/samsung-blu-ray-player-home-cinema-loop-issue-161514017.html",
+         "urlToImage":"https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F806f60a0-b306-11ea-befe-7eb05ca55e42&client=amp-blogside-v2&signature=388fd2ec73ad78a9a86dbea34824ce68c57be43f",
+         "publishedAt":"2020-06-21T00:57:51Z",
+         "content":"Samsung Blu-ray player owners hoping to curl up with a movie have been in for a disappointment in recent days. Users for various models (including multiple Home Cinema models like the HT-J4500) repor… [+302 chars]"
+      },
+      {
+         "source":{
+            "id":"engadget",
+            "name":"Engadget"
+         },
+         "author":"",
+         "title":"Google makes it easier to deregister your phone number for RCS messages - Engadget",
+         "description":"Google has quietly rolled out (via Android Police) a new tool that makes its much simpler to deregister the number you used for its first-party RCS-enabled Messages platform. You can already deregister your number in the Settings page of the Messages app by e…",
+         "url":"https://www.engadget.com/google-deregister-number-messages-230220402.html",
+         "urlToImage":"https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F7354bca0-b237-11ea-9d5d-cb1c090aca07&client=amp-blogside-v2&signature=b10b43ac0b89cb797dbfe271c020b7207513a1ea",
+         "publishedAt":"2020-06-20T23:32:18Z",
+         "content":"Google has quietly rolled out (via Android Police) a new tool that makes its much simpler to deregister the number you used for its first-party RCS-enabled Messages platform. You can already deregist… [+818 chars]"
       },
       {
          "source":{
@@ -18,12 +31,77 @@
             "name":"CNET"
          },
          "author":"Ian Sherr",
-         "title":"EA Play Live: Star Wars Squadrons, Skate and all the trailers we saw - CNET",
-         "description":"Electronic Arts held its annual EA Play Live event, announcing new instalments in Apex Legends, Star Wars and the return of the Skate franchise.",
-         "url":"https://www.cnet.com/news/ea-play-live-star-wars-squadrons-skate-and-all-the-trailers-we-saw/",
-         "urlToImage":"https://cnet1.cbsistatic.com/img/bXbXKT3zOBWNaJTyhtQY9o0wTLI=/756x567/2020/06/19/f9546cf1-afee-44ac-a108-51489466eb50/screen-shot-2020-06-19-at-9-39-15-am.png",
-         "publishedAt":"2020-06-19T00:23:11Z",
-         "content":"EA's Star Wars: Squadrons spaceship combat game is coming this fall.\r\nElectronic Arts\r\nElectronic Arts pulled back the curtain on a handful of its upcoming titles during the EA Play Live event, with … [+994 chars]"
+         "title":"Apple WWDC 2020: iOS 14, new Macs, how to watch, start time, livestream and everything else we know - CNET",
+         "description":"WWDC start time is Monday at 10 a.m. PT. Tune in to CNET for live coverage of iOS 14, new Macs, MacOS, new WatchOS 7 and everything else Apple announces.",
+         "url":"https://www.cnet.com/news/apple-wwdc-2020-ios-14-new-macs-how-to-watch-start-time-livestream-and-everything-else-know/",
+         "urlToImage":"https://cnet2.cbsistatic.com/img/V5KRcObB3AX1IwBvqZNY3fW1iSc=/756x567/2020/03/13/549636eb-5564-4fad-aca0-1969139d83a6/wwdc-2020.png",
+         "publishedAt":"2020-06-20T23:30:42Z",
+         "content":"On Monday, Apple will hold its opening keynote for WWDC 2020, its annual Worldwide Developers Conference. At WWDC, the company is expected to discuss its new iOS 14iPhone and iPad software, as well a… [+2876 chars]"
+      },
+      {
+         "source":{
+            "id":"engadget",
+            "name":"Engadget"
+         },
+         "author":"",
+         "title":"Adobe will tell you to uninstall Flash by the end of 2020 - Engadget",
+         "description":"Adobe is not only ending support for Flash in 2020, it's encouraging you to uninstall the software.",
+         "url":"https://www.engadget.com/adobe-flash-to-ask-users-to-uninstall-214536288.html",
+         "urlToImage":"https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F48e66e30-b32e-11ea-bd97-37c9fac3a013&client=amp-blogside-v2&signature=ee4e333a1680d9ffa6e2377e24a433e3856f976e",
+         "publishedAt":"2020-06-20T23:30:27Z",
+         "content":"It’s no secret that Adobe will end support for Flash when 2020 is over, but now it’s evident just how aggressive that cutoff will be. ZDNetreports that Adobe will prompt you to uninstall Flash “later… [+650 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"EventHubs"
+         },
+         "author":"Justin 'AdaptiveTrigger' Gordon",
+         "title":"Masahiro Sakurai declares that there have been difficulties with the teleworking for Super Smash Bros. Ultimate's ARMS challenger - EventHubs",
+         "description":"Masahiro Sakurai's segment for the Famitsu Column was recently released to the public. Thanks to the efforts of PushDustIn and Japaneseswitch, we've learned of a few difficulties associated with teleworking to develop Super Smash Bros. Ultimate's DLC ...",
+         "url":"https://www.eventhubs.com/news/2020/jun/20/masahiro-sakurai-declares-there-have-been-difficulties-teleworking-super-smash-bros-ultimates-arms-challenger/",
+         "urlToImage":"https://media.eventhubs.com/images/2020/06/20-masahiro-sakurai-declares-there-have-been-difficulties-teleworkit.jpg",
+         "publishedAt":"2020-06-20T23:14:55Z",
+         "content":"Masahiro Sakurai's segment for the Famitsu Column was recently released to the public. Thanks to the efforts of PushDustIn and Japaneseswitch, we've learned of a few difficulties associated with tele… [+1626 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"BBC News"
+         },
+         "author":"https://www.facebook.com/bbcnews",
+         "title":"Last of Us Part II: Is this the most accessible game ever? - BBC News",
+         "description":"A hotly-anticipated game release brought tears to some purely because of its options menu.",
+         "url":"https://www.bbc.com/news/technology-53093613",
+         "urlToImage":"https://ichef.bbci.co.uk/images/ic/1024x576/p08hgwhx.jpg",
+         "publishedAt":"2020-06-20T23:13:55Z",
+         "content":"Media captionWATCH: Hands-on with Last Of Us Part II\r\nThe first time Steve Saylor fired up the hotly-anticipated new game The Last of Us Part II, he burst into tears. \r\n\"Y'all don't even know how muc… [+5412 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"ComicBook.com"
+         },
+         "author":"Tyler Fischer",
+         "title":"PlayStation Makes 5 Popular PS4 Games Just $5 for Limited Time - ComicBook.com",
+         "description":"PlayStation has made 5 popular PS4 games just $5 for a limited over on the PlayStation Store. At the moment of publishing, Sony has multiple promotional sales running over on the PlayStation Store, featuring hundreds and hundreds of cheap digital PS4 games. A…",
+         "url":"https://comicbook.com/gaming/news/ps4-playstation-4-games-store-sale-cheap-deals/",
+         "urlToImage":"https://media.comicbook.com/2020/05/ps4-playstation-purple-1220955-1280x0.jpeg",
+         "publishedAt":"2020-06-20T22:43:19Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"engadget",
+            "name":"Engadget"
+         },
+         "author":"",
+         "title":"'Star Wars: Squadrons' won't have microtransactions or constant add-ons - Engadget",
+         "description":"'Star Wars: Squadrons' won't just let you earn everything through gameplay -- there are no microtransactions or plans for a 'live service' roadmap.",
+         "url":"https://www.engadget.com/star-wars-squadrons-no-microtransactions-184130917.html",
+         "urlToImage":"https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F02511670-b322-11ea-9f3e-fa858417094d&client=amp-blogside-v2&signature=4931f5015bc772807bf8a89cbee9c3abc45b292b",
+         "publishedAt":"2020-06-20T22:14:35Z",
+         "content":"EA and Motive stressed thatStar Wars: Squadrons would let you earn everything through gameplay, but it’s now clear that you won’t even have to consider paying more — because you can’t. In addition to… [+545 chars]"
       },
       {
          "source":{
@@ -31,103 +109,77 @@
             "name":"YouTube"
          },
          "author":null,
-         "title":"Dragon Age and Battlefield Tech Teaser | EA Play 2020 - IGN",
-         "description":"See the tech being utilized in making the next Dragon Age, Battlefield, Need for Speed, and more. Thanks for checking out IGN's Summer of Gaming! Be sure to ...",
-         "url":"https://www.youtube.com/watch?v=J207tMmSGAo",
-         "urlToImage":"https://i.ytimg.com/vi/J207tMmSGAo/maxresdefault.jpg",
-         "publishedAt":"2020-06-19T00:20:25Z",
-         "content":"See the tech being utilized in making the next Dragon Age, Battlefield, Need for Speed, and more.\r\nThanks for checking out IGN's Summer of Gaming! Be sure to stay tuned to SoG as our editorial team s… [+444 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"YouTube"
-         },
-         "author":null,
-         "title":"Untitled Skate Game (Skate 4) - Announcement Teaser | EA Play 2020 - IGN",
-         "description":"After 10 years, a new entry in the Skate franchise is finally in development. Thanks for checking out IGN's Summer of Gaming! Be sure to stay tuned to SoG as...",
-         "url":"https://www.youtube.com/watch?v=QcJQLGLxg3s",
-         "urlToImage":"https://i.ytimg.com/vi/QcJQLGLxg3s/maxresdefault.jpg",
-         "publishedAt":"2020-06-19T00:15:00Z",
+         "title":"ASUS ROG Phone 3: Monstrous specs + everything else we know so far! - Android Central",
+         "description":"There's a new Phone from ASUS's Republic of Gamers brand on the way for 2020, and in recent weeks the first few details have started to slip out -- including...",
+         "url":"https://www.youtube.com/watch?v=kbV-nFcKoOk",
+         "urlToImage":"https://i.ytimg.com/vi/kbV-nFcKoOk/maxresdefault.jpg",
+         "publishedAt":"2020-06-20T22:00:18Z",
          "content":null
       },
       {
          "source":{
             "id":null,
-            "name":"Jalopnik"
+            "name":"CNET"
          },
-         "author":"Justin T. Westbrook",
-         "title":"The New Mercedes-AMG E 63 S Gets One Major Upgrade: Bigger Wheel Arches - Jalopnik",
-         "description":"Mercedes-Benz recently updated the look of its E-Class sedan, and part of that involved turning the wagon variant we’re lucky to have into a Subaru Outback knock-off. But there is some good news with the new design, too. The new look means the 2021 Mercedes-A…",
-         "url":"https://jalopnik.com/the-new-mercedes-amg-e-63-s-gets-one-major-upgrade-big-1844084430",
-         "urlToImage":"https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/o3holrappznap2fguztv.jpg",
-         "publishedAt":"2020-06-19T00:14:16Z",
-         "content":"Mercedes-Benz recently updated the look of its E-Class sedan, and part of that involved turning the wagon variant were lucky to have into a Subaru Outback knock-off. But there is some good news with … [+1835 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"YouTube"
-         },
-         "author":null,
-         "title":"FIFA 21 & Madden 21 - Official PS5 and Xbox Series X Trailer - GameSpot",
-         "description":"Feel Next Level in FIFA 21 and Madden NFL 21 on PlayStation®5 and Xbox Series X with new technology that takes football from visual to visceral. Learn more: ...",
-         "url":"https://www.youtube.com/watch?v=nm9FGNB4Q3k",
-         "urlToImage":"https://i.ytimg.com/vi/nm9FGNB4Q3k/maxresdefault.jpg",
-         "publishedAt":"2020-06-19T00:03:30Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Forbes"
-         },
-         "author":"Ewan Spence",
-         "title":"Apple’s MacBook Pro Has A Serious Problem - Forbes",
-         "description":"A new problem is coming to light with Apple’s new MacBook Pro and MacBook Air machines. Users are reporting compatibility issues with USB 2.0 devices.",
-         "url":"https://www.forbes.com/sites/ewanspence/2020/06/18/apple-macbook-pro-macbook-air-macos-catalina-usb-problem-connectivity/",
-         "urlToImage":"https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1208081352%2F0x0.jpg",
-         "publishedAt":"2020-06-19T00:03:23Z",
-         "content":"A new problem is coming to light with Apples new MacBook Pro and MacBook Air machines. Users arereporting compatibility issues with USB 2.0 devices.\r\nDetail of the Lightning ports on a 2019 15-inch M… [+2233 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"YouTube"
-         },
-         "author":null,
-         "title":"Rocket Arena - Reveal Trailer | EA Play 2020 - IGN",
-         "description":"Rocket Arena is the first title from Final Strike Games, which is set to drop on July 14. Thanks for checking out IGN's Summer of Gaming! Be sure to stay tun...",
-         "url":"https://www.youtube.com/watch?v=QmNQtUmzqNg",
-         "urlToImage":"https://i.ytimg.com/vi/QmNQtUmzqNg/maxresdefault.jpg",
-         "publishedAt":"2020-06-19T00:00:09Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"VentureBeat"
-         },
-         "author":"Jeff Grubb",
-         "title":"Lost In Random, Rocket Arena, and more coming from EA Originals - VentureBeat",
-         "description":"Electronic Arts filled out its EA Play event today with a number of indie games. This comes as part of the publisher's EA Originals initiative.",
-         "url":"https://venturebeat.com/2020/06/18/lost-in-random-rocket-arena-and-more-coming-from-ea-originals/",
-         "urlToImage":"https://venturebeat.com/wp-content/uploads/2020/06/rocket-arena.jpg?w=1200&strip=all",
-         "publishedAt":"2020-06-18T23:56:47Z",
-         "content":"Electronic Arts filled out its EA Play event today with a number of indie games. This comes as part of the publishers EA Originals initiative. This is the program that previously released smaller hit… [+1133 chars]"
+         "author":"Katie Conner",
+         "title":"6 underused Amazon Echo tricks to try with Alexa today - CNET",
+         "description":"If you didn't know about these useful Alexa features, now's the time to give them a go.",
+         "url":"https://www.cnet.com/how-to/6-underused-amazon-echo-tricks-to-try-with-alexa-today/",
+         "urlToImage":"https://cnet1.cbsistatic.com/img/moi_2DrMbxqdVOHJ10izCOFFfd0=/756x567/2019/09/25/81e8c286-3457-47da-a2a6-42e78da09699/amazon-event-092519-echo-dot-with-clock-0963.jpg",
+         "publishedAt":"2020-06-20T21:37:53Z",
+         "content":"Alexa is full of fun and interesting things to discover.\r\nTyler Lizenby/CNET\r\nThe Amazon Echo can be your go-to for performing tasks throughout the day, like playing music\r\n, \"dropping in\" on your ho… [+4891 chars]"
       },
       {
          "source":{
             "id":null,
             "name":"GameSpot"
          },
-         "author":"Chris Pereira",
-         "title":"PS5 And Xbox Series X's FIFA 21, Madden 21 Showcased At EA Play - GameSpot",
-         "description":"EA Sports has provided a brief glimpse of what to expect from the next-gen versions of this year's Madden and FIFA games.",
-         "url":"https://www.gamespot.com/articles/ps5-and-xbox-series-xs-fifa-21-madden-21-showcased/1100-6478726/",
-         "urlToImage":"https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1179/11799911/3688833-ea2.jpg",
-         "publishedAt":"2020-06-18T23:47:00Z",
-         "content":"One of the final reveals during EA Play involved Electronic Arts' sports offerings. Specifically, EA Sports provided a brief glimpse of both Madden NFL 21 and FIFA 21's next-gen versions, which are d… [+3930 chars]"
+         "author":"Gabe Gurwin",
+         "title":"PS5-Exclusive Ratchet & Clank: Rift Apart's Big Feature Is Only Possible On Next-Gen - GameSpot",
+         "description":"Ratchet & Clank: Rift Apart could only be made on PS5, and creative director Marcus Smith explains why in this video.",
+         "url":"https://www.gamespot.com/articles/ps5exclusive-ratchet-clank-rift-aparts-big-feature/1100-6478770/",
+         "urlToImage":"https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1597/15971423/3689196-7915340364-36873.jpg",
+         "publishedAt":"2020-06-20T20:52:03Z",
+         "content":"The PS5-exclusive Ratchet &amp; Clank: Rift Apart was announced during Sony's official console reveal on June 11, and the game is taking advantage of the console's new hardware features in order to p… [+1744 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Essentially Sports"
+         },
+         "author":"https://www.facebook.com/LordDStark7",
+         "title":"DC Fan-Favorite Video Game Free On PS4 Xbox And PC This June - Essentially Sports",
+         "description":"For those of us who grew up on stories about Superman and Batman and the Justice League, this is our chance to try out the best Free DC video game.",
+         "url":"https://www.essentiallysports.com/dc-fan-favorite-video-game-free-on-ps4-xbox-and-pc-this-june-esports-news/",
+         "urlToImage":"https://image-cdn.essentiallysports.com/wp-content/uploads/20200621022034/wb-games.jpg",
+         "publishedAt":"2020-06-20T20:51:00Z",
+         "content":"There are several games out there that have been made available PlayStation, Xbox, and PC for free. Most of these games are top-rated and everyone wants to try them out. Regardless of platform, when … [+2215 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Destructoid"
+         },
+         "author":"Chris Carter",
+         "title":"(Update) Nintendo warns people not to buy the wrong Pokemon Sword or Shield season pass - Destructoid",
+         "description":"(Update) Nintendo warns people not to buy the wrong Pokemon Sword or Shield season pass",
+         "url":"https://www.Destructoid.com/stories/-update-nintendo-warns-people-not-to-buy-the-wrong-pokemon-sword-or-shield-season-pass-594473.phtml",
+         "urlToImage":"https://destructoid.com/ul/594473-PokemonSeasonPass.jpg",
+         "publishedAt":"2020-06-20T20:30:00Z",
+         "content":"Oops\r\n[Update: Nintendo seems to be breaking from the norm here, at least as far as North America is concerned. Just today, NOA asked users on Twitter to reach out to customer support if they purchas… [+1736 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Android Authority"
+         },
+         "author":null,
+         "title":"We asked, you told us: The most popular OnePlus phone is... - Android Authority",
+         "description":"It turns out a lot of Android Authority readers have fond memories of OnePlus' first 'Pro' smartphone.",
+         "url":"https://www.androidauthority.com/most-popular-oneplus-phone-poll-results-1130790/",
+         "urlToImage":"https://cdn57.androidauthority.net/wp-content/uploads/2019/05/OnePlus-7-Pro-vs-OnePlus-6T-vs-OnePlus-6-backs-flayed-out-920x470.jpg",
+         "publishedAt":"2020-06-20T20:06:59Z",
+         "content":"The OnePlus we see today isnt the OnePlus we saw break onto the Android scene in 2014. A lot has changed. OnePlus phones cost more than they ever have. The cameras are getting better actually rivalin… [+5074 chars]"
       },
       {
          "source":{
@@ -135,128 +187,76 @@
             "name":"YouTube"
          },
          "author":null,
-         "title":"Apex Legends: Lost Treasures Collection - Gameplay Overview & Trailer | EA Play 2020 - IGN",
-         "description":"Respawn shows off all the new features and modes still coming in Season 5 of Apex Legends, with the Lost Treasures event. #ign #IGNSummerOfGaming",
-         "url":"https://www.youtube.com/watch?v=wlrxuz71t0M",
-         "urlToImage":"https://i.ytimg.com/vi/wlrxuz71t0M/maxresdefault.jpg",
-         "publishedAt":"2020-06-18T23:41:08Z",
-         "content":"Respawn shows off all the new features and modes still coming in Season 5 of Apex Legends, with the Lost Treasures event.\r\n#ign#IGNSummerOfGaming"
-      },
-      {
-         "source":{
-            "id":"polygon",
-            "name":"Polygon"
-         },
-         "author":"Julia Lee",
-         "title":"New co-op game from A Way Out creator, It Takes Two, launches in 2021 - Polygon",
-         "description":"The studio behind A Way Out is bringing out a new co-op multiplayer game, It Takes Two, which features gameplay where players control two dolls representing the parents of a small child.",
-         "url":"https://www.polygon.com/2020/6/18/21296330/ea-play-2020-josef-fares-it-takes-two",
-         "urlToImage":"https://cdn.vox-cdn.com/thumbor/6XF48xqVTH8hD_JbuMc2TdTloMU=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20042634/chrome_2020_06_18_19_24_44.jpg",
-         "publishedAt":"2020-06-18T23:33:07Z",
+         "title":"Lauren Lapkus' Picturesque Island Tour - Animal Crossing: New Horizons - IGN",
+         "description":"Donate to the World Health Organization: donate.ign.com/whocovidrelief Donate to The Bail Project: donate.ign.com/thebailproject Lauren Lapkus shows off her ...",
+         "url":"https://www.youtube.com/watch?v=uChQTwFh1hA",
+         "urlToImage":"https://i.ytimg.com/vi/uChQTwFh1hA/maxresdefault.jpg",
+         "publishedAt":"2020-06-20T20:00:09Z",
          "content":null
       },
       {
          "source":{
             "id":null,
-            "name":"MacRumors"
+            "name":"Notebookcheck.net"
          },
-         "author":"Juli Clover",
-         "title":"See How the Apple Watch Ejects Water in Slow Motion - MacRumors",
-         "description":"The Apple Watch, which can be worn while swimming and doing other water-based activities, has a neat feature that's designed to use the speakers...",
-         "url":"https://www.macrumors.com/2020/06/18/apple-watch-water-ejecting-slow-motion/",
-         "urlToImage":"https://images.macrumors.com/article-new/2020/06/applewatchwatereject.jpg",
-         "publishedAt":"2020-06-18T23:15:31Z",
-         "content":"The Apple Watch, which can be worn while swimming and doing other water-based activities, has a neat feature that's designed to use the speakers to eject water, protecting the internal components.\r\nT… [+945 chars]"
+         "author":"Daniel R Deakin",
+         "title":"Intel Core i7-1165G7 ties with the AMD Ryzen 7 4700U in Time Spy CPU Score despite having half the cores while its Xe iGPU batters the Vega 7 and Vega 8 competition - Notebookcheck.net",
+         "description":"The Tiger Lake Intel Core i7-1165G7 processor has been spotted going through extensive testing on 3DMark’s Time Spy benchmark and the results have been positive for Team Blue. The Xe iGPU part of the chipset managed to outscore AMD Vega 7 and Vega 8 iGPUs, an…",
+         "url":"https://www.notebookcheck.net/Intel-Core-i7-1165G7-ties-with-the-AMD-Ryzen-7-4700U-in-Time-Spy-CPU-Score-despite-having-half-the-cores-while-its-Xe-iGPU-batters-the-Vega-7-and-Vega-8-competition.477032.0.html",
+         "urlToImage":"https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/xe.jpg",
+         "publishedAt":"2020-06-20T19:29:46Z",
+         "content":"Working For Notebookcheck\r\nAre you a techie who knows how to write? Then join our Team! Especially English native speakers welcome!\r\nCurrently wanted: German-English-Translator - Details here\r\nIt see… [+1641 chars]"
+      },
+      {
+         "source":{
+            "id":"fox-news",
+            "name":"Fox News"
+         },
+         "author":"Julius Young",
+         "title":"‘Deadliest Catch: Bloodline’ star Josh Harris on how he’ll honor late dad Captain Phil Harris on Father’s Day - Fox News",
+         "description":"EXCLUSIVE: Father’s Day is making out to be special for “Deadliest Catch” star, Captain Josh Harris.",
+         "url":"https://www.foxnews.com/entertainment/deadliest-catch-bloodline-josh-harris-honor-late-dad-phil-harris-fathers-day",
+         "urlToImage":"https://static.foxnews.com/foxnews.com/content/uploads/2018/09/deadliest-catch-phil-harris-discovery-660.jpg",
+         "publishedAt":"2020-06-20T19:19:56Z",
+         "content":"EXCLUSIVE: Father’s Day is making out to be special for “Deadliest Catch” star, Captain Josh Harris.\r\nThe seafarer, 37, said he’ll be taking the day to remember his “old man” – the legendary late fis… [+2316 chars]"
       },
       {
          "source":{
             "id":null,
-            "name":"9to5Mac"
+            "name":"9to5google.com"
          },
          "author":null,
-         "title":"Apple Events app for tvOS migrates to TV app, adds support for 4K streams [U] - 9to5Mac",
-         "description":"Apple has just released an update to the Apple Events app for tvOS, which allows users to watch Apple presentations on Apple TV. Today’s update prepares the app for the live broadcast of the WWDC 2020 opening keynote next Monday. What’s different this year ho…",
-         "url":"https://9to5mac.com/2020/06/18/apple-events-app-for-tvos-updated-ahead-of-wwdc-2020-opening-keynote/",
-         "urlToImage":"https://9to5mac.com/wp-content/uploads/sites/6/2020/06/WWDC-2020-on-YouTube.jpg?quality=82&strip=all",
-         "publishedAt":"2020-06-18T22:43:01Z",
-         "content":"Apple has just released an update to the Apple Events app for tvOS, which allows users to watch Apple presentations on Apple TV. Today’s update prepares the app for the live broadcast of the WWDC 202… [+1335 chars]"
-      },
-      {
-         "source":{
-            "id":"ars-technica",
-            "name":"Ars Technica"
-         },
-         "author":"Ron Amadeo",
-         "title":"Google pushes “text fragment links” with new Chrome extension - Ars Technica",
-         "description":"New feature can deep-link to specific text on a Web page, with highlighting.",
-         "url":"https://arstechnica.com/gadgets/2020/06/google-pushes-text-fragment-links-with-new-chrome-extension/",
-         "urlToImage":"https://cdn.arstechnica.net/wp-content/uploads/2020/05/Chrome.jpg",
-         "publishedAt":"2020-06-18T22:35:00Z",
-         "content":"27 with 25 posters participating\r\n<ul><li>\r\n The result of a text fragment link. Note the highlighted text and the URL. \r\n</li><li>\r\n With the extension installed, just highlight the text you want an… [+3745 chars]"
+         "title":"Google Photos may soon be able to set your Google account profile picture - 9to5Google",
+         "description":"Enabled ahead of release, it seems Google Photos may soon be able to change the profile picture on your wider Google account.",
+         "url":"https://9to5google.com/2020/06/20/google-photos-profile-picture-account/",
+         "urlToImage":"https://9to5google.com/wp-content/uploads/sites/4/2019/12/google_photos_app_android_1.jpg?resize=1024,512",
+         "publishedAt":"2020-06-20T19:07:15Z",
+         "content":"Arguably, Google Photos is one of the company’s best software services, and with updates, it just seems to be getting better. Now, Jane Wong has been able to spot a new feature Google Photos is build… [+1171 chars]"
       },
       {
          "source":{
             "id":null,
-            "name":"YouTube"
+            "name":"Push Square"
          },
-         "author":null,
-         "title":"Drake Hollow - Exclusive High Level Camp Gameplay | Summer of Gaming 2020 - IGN",
-         "description":"Drake Hollow's developers show off what a high level village can look like, and how traps and defenses can fend off invaders during raids in Drake Hollow. Fo...",
-         "url":"https://www.youtube.com/watch?v=ZdUkoXD07a8",
-         "urlToImage":"https://i.ytimg.com/vi/ZdUkoXD07a8/maxresdefault.jpg",
-         "publishedAt":"2020-06-18T22:22:20Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"the-verge",
-            "name":"The Verge"
-         },
-         "author":"Nick Statt",
-         "title":"Apple doubles down on controversial decision to reject email app Hey - The Verge",
-         "description":"Apple is standing behind its decision to reject future updates for the iOS app of new email service Hey. In a letter sent to Hey creator Basecamp and obtained by The Verge, Apple outlines the App Store rules it says the Hey app breaks and advises the company …",
-         "url":"https://www.theverge.com/2020/6/18/21296180/apple-hey-email-app-basecamp-rejection-response-controversy-antitrust-regulation",
-         "urlToImage":"https://cdn.vox-cdn.com/thumbor/vB6BU3UdyQtgC8thjf_ocAuZCkE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10125273/acastro_180130_1777_0005.jpg",
-         "publishedAt":"2020-06-18T22:07:40Z",
-         "content":"The controversy over App Store rules rages on\r\nIllustration by Alex Castro / The Verge\r\nApple is standing behind its decision to reject future updates for the iOS app of new email service Hey. In a l… [+10087 chars]"
+         "author":"Push Square",
+         "title":"Baldur's Gate 3 PS5 Port Possible After the RPG's PC Launch - Push Square",
+         "description":"Make it happen",
+         "url":"https://www.pushsquare.com/news/2020/06/baldurs_gate_3_ps5_port_possible_after_the_rpgs_pc_launch",
+         "urlToImage":"https://images.pushsquare.com/1390ba1e41a66/1280x720.jpg",
+         "publishedAt":"2020-06-20T19:00:00Z",
+         "content":"Push Square. Why did you delete all my comments on the article with 500+ comments? We were having a debate about corona, now if you were to delete all comments about that I'd understand, but you left… [+556 chars]"
       },
       {
          "source":{
             "id":null,
-            "name":"PhoneArena"
+            "name":"BGR"
          },
-         "author":"Anam Hamid",
-         "title":"The 5.4-inch iPhone 12 will reportedly be more compact than the 2020 iPhone SE - PhoneArena",
-         "description":"The CAD based render of the 5.4-inch  iPhone 12 suggests that it will be smaller than the iPhone SE.",
-         "url":"https://www.phonearena.com/news/5.4-inch-iPhone-12-will-be-smaller-than-iPhone-SE_id125417",
-         "urlToImage":"https://i-cdn.phonearena.com/images/article/125417-two/The-5.4-inch-iPhone-12-will-reportedly-be-more-compact-than-the-2020-iPhone-SE.jpg",
-         "publishedAt":"2020-06-18T22:04:00Z",
-         "content":"All content, features, and design are Copyright 2001-2020 PhoneArena.com.PhoneArena may receive a small commission if you purchase through affiliate links on this page.All rights reserved. Reproducti… [+88 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"Android Central"
-         },
-         "author":"Jeramy Johnson",
-         "title":"Google's Area 120 launches Keen, a Pinterest competitor - Android Central",
-         "description":"Google's tried its hand at social media before with limited success. This time it hopes that it's Pinterest clone Keen will have more staying power.",
-         "url":"https://www.androidcentral.com/googles-area-120-launches-keen-pinterest-competitor",
-         "urlToImage":"https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/06/keen-inline_1.max-1000x1000.jpg",
-         "publishedAt":"2020-06-18T21:38:40Z",
-         "content":"Apparently, Google is a glutton for punishment, as today it announced on its blog the creation of a new social network called Keen. Created by Google's Area 120, a workshop for experimental projects,… [+1455 chars]"
-      },
-      {
-         "source":{
-            "id":null,
-            "name":"9to5Mac"
-         },
-         "author":null,
-         "title":"Phil Schiller says Apple is not considering App Store rule changes as it doubles down on Hey email app - 9to5Mac",
-         "description":"Apple is standing firm on its decision to reject the Hey email app from the App Store — and its App Store policies in general. In a new interview with TechCrunch, Apple executive Phil Schiller said that the company has no plans to change App Store rules as th…",
-         "url":"https://9to5mac.com/2020/06/18/schiller-hey-app-store-policy/",
-         "urlToImage":"https://9to5mac.com/wp-content/uploads/sites/6/2017/12/phil-schiller.jpg?quality=82&strip=all",
-         "publishedAt":"2020-06-18T21:06:44Z",
-         "content":"Apple is standing firm on its decision to reject the Hey email app from the App Store and its App Store policies in general. In a new interview with TechCrunch, Apple executive Phil Schiller said tha… [+5721 chars]"
+         "author":"Chris Smith",
+         "title":"This could be the most dangerous Android phone of 2020 for Google - BGR",
+         "description":"OnePlus’s upcoming OnePlus Z price might be a lot cheaper than anything we could have envisioned, which could put further strain on competitors — especially Google’s unreleased Pixel 5 flagship. The OnePlus Z and Pixel 5 are rumored to feature the same Snapdr…",
+         "url":"https://bgr.com/2020/06/20/oneplus-8-price-cheaper-pixel-5-iphone-se-pixel-4a/",
+         "urlToImage":"https://boygeniusreport.files.wordpress.com/2020/04/oneplus-8-1.jpg?quality=70&strip=all",
+         "publishedAt":"2020-06-20T18:40:00Z",
+         "content":"<ul><li>OnePlus’s upcoming OnePlus Z price might be a lot cheaper than anything we could have envisioned, which could put further strain on competitors — especially Google’s unreleased Pixel 5 flagsh… [+4776 chars]"
       }
    ]
