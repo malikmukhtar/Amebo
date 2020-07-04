@@ -2,80 +2,54 @@
   {
     "source": {
       "id": null,
-      "name": "CNET"
-    },
-    "author": "Patrick Holland",
-    "title": "iOS 14 first take: Apple launches a new iPhone home screen, Siri, widgets, picture-in-picture video and more - CNET",
-    "description": "There is also a new App Library, App Clips, Messaging features, a Translation app and the ability to unlock your car with your phone, too.",
-    "url": "https://www.cnet.com/news/ios-14-first-take-apple-launches-a-new-iphone-home-screen-siri-widgets-picture-in-picture-video-more/",
-    "urlToImage": "https://cnet2.cbsistatic.com/img/hpfgPs1rXgLNdsijrvZ63bv4uIQ=/756x567/2020/06/23/cdd75e42-ffdd-48c4-9a1c-889ed284eab5/ios14pic2.jpg",
-    "publishedAt": "2020-06-23T04:38:00Z",
-    "content": "During a keynote at WWDC, Apple announced the next iPhone operating system: iOS 14.\r\nCelso Bulgatti/CNET\r\nDuring an online-only keynote for Apple's annual Worldwide Developer Conference (WWDC), the c… [+9139 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "YouTube"
+      "name": "Android Police"
     },
     "author": null,
-    "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated Review - GameSpot",
-    "description": "Nostalgia and a new paint job aren’t enough to save you from the dull, frustrating, and wonky experience that is SpongeBob SquarePants: Battle for Bikini Bot...",
-    "url": "https://www.youtube.com/watch?v=cZ1vmwX8h2c",
-    "urlToImage": "https://i.ytimg.com/vi/cZ1vmwX8h2c/maxresdefault.jpg",
-    "publishedAt": "2020-06-23T04:30:05Z",
-    "content": null
+    "title": "Gmail's spam filter has been repaired - Android Police",
+    "description": "Spam filters are a thing we rely on every single day to protect us from an overwhelming amount of unwanted messages, but we rarely think about the",
+    "url": "https://www.androidpolice.com/2020/07/04/gmails-spam-filter-is-broken-for-some/",
+    "urlToImage": "https://www.androidpolice.com/wp-content/uploads/2018/04/Gmail-hero.jpg",
+    "publishedAt": "2020-07-04T07:27:55Z",
+    "content": "This story was originally published 2020/07/01 5:25am PDTon Jul 1, 2020 and last updated 2020/07/04 12:09am PDTon Jul 4, 2020. \r\nSpam filters are a thing we rely on every single day to protect us fro… [+2146 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "YouTube"
+      "name": "Nintendo Life"
+    },
+    "author": "Nintendo Life",
+    "title": "The World Ends With You: The Animation Airs In 2021, Here's Your First Look - Nintendo Life",
+    "description": "Square Enix's hit game returns as an anime",
+    "url": "https://www.nintendolife.com/news/2020/07/the_world_ends_with_you_the_animation_airs_in_2021_heres_your_first_look",
+    "urlToImage": "https://images.nintendolife.com/973848f42faa0/1280x720.jpg",
+    "publishedAt": "2020-07-04T03:05:00Z",
+    "content": "Square Enix has officially announced The World Ends With You: The Animation will launch internationally in 2021.\r\nThis all-new anime, based on the original Nintendo DS game from 2007, will see the Te… [+786 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "9to5google.com"
     },
     "author": null,
-    "title": "Apple WWDC 2020: iOS 14, digital iPhone car keys, plus Mac, iPhone and iPad come together and more - Yahoo Finance",
-    "description": "Constellation Research Principal Analyst & Founder R \"Ray\" Wang breaks down some of the new features and products from Apple WWDC 2020. #AppleWWDC #iOS14 #Ti...",
-    "url": "https://www.youtube.com/watch?v=gonpkbMhPDE",
-    "urlToImage": "https://i.ytimg.com/vi/gonpkbMhPDE/maxresdefault.jpg",
-    "publishedAt": "2020-06-23T03:31:56Z",
-    "content": null
+    "title": "Google app reimplements Chrome as custom, in-app browser disappears for some - 9to5Google",
+    "description": "After months of work, the Google app in late April started testing an in-app browser for opening Discover and Search pages. Google app Chrome browser...",
+    "url": "https://9to5google.com/2020/07/03/google-app-chrome-browser/",
+    "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2020/05/google_app_dark_mode_android_ios_1.jpg?quality=82&strip=all",
+    "publishedAt": "2020-07-04T02:49:51Z",
+    "content": "After months of work, the Google app in late April started testing an in-app browser for opening Discover articles and Search results. It saw a wider rollout a few weeks later, but Google now looks t… [+1753 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "CNET"
+      "name": "PhoneArena"
     },
-    "author": "Lori Grunin",
-    "title": "Apple WWDC 2020: iOS 14, Watch OS 7, new ARM Macs, start time, how to watch, livestream and more - CNET",
-    "description": "Apple silicon is real and the company's stoked about the new chips. But for some, the updates to Siri, Memoji and Messages may resonate more.",
-    "url": "https://www.cnet.com/news/everything-apple-just-announced-wwdc-2020-ios-14-macos-big-sur-new-mac-chips/",
-    "urlToImage": "https://cnet1.cbsistatic.com/img/IvsL8wIGn5xZVSo0zEyh6eBxI4A=/756x567/2020/06/22/4fec971c-ba79-480f-816b-4cca927e12a6/screen-shot-2020-06-22-at-1-08-42-pm.png",
-    "publishedAt": "2020-06-23T03:30:47Z",
-    "content": "Apple's opening keynote Monday for WWDC 2020, its annual Worldwide Developers Conference, started with Tim Cook addressing the empty auditorium about Black Lives Matter and coronavirus before it laun… [+4610 chars]"
-  },
-  {
-    "source": {
-      "id": "cnn",
-      "name": "CNN"
-    },
-    "author": "Opinion by Erin Bromage",
-    "title": "People in their 20s and 30s are spreading the virus - CNN",
-    "description": "Erin Bromage writes that the emerging data about the infection rate for those under 50 years old is revealing that the 20-40-year-old segment of our population may in fact be the force driving this pandemic.",
-    "url": "https://www.cnn.com/2020/06/22/opinions/20-and-30-year-olds-spreading-covid-19-bromage/index.html",
-    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200527005734-02-us-coronavirus-wednesday-super-tease.jpg",
-    "publishedAt": "2020-06-23T01:55:02Z",
-    "content": "This is the second installment in a series of regular columns on making choices in the era of Covid-19 by Erin Bromage, an associate professor of biology at the University of Massachusetts Dartmouth.… [+7798 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "YouTube"
-    },
-    "author": null,
-    "title": "iOS 14 Beta: Best & New Features! - Dom Esposito",
-    "description": "Apple iOS 14 Review Beta Preview - New and Best Features Walkthrough! iOS 14 will lau ch with iPhone 12 and 12 Pro, but today we have iOS 14 Beta with new an...",
-    "url": "https://www.youtube.com/watch?v=XwpJyi96lDg",
-    "urlToImage": "https://i.ytimg.com/vi/XwpJyi96lDg/maxresdefault.jpg",
-    "publishedAt": "2020-06-23T01:18:38Z",
-    "content": null
+    "author": "Alan Friedman",
+    "title": "Apple tries to get users ready to accept the lack of a charger in the 5G iPhone 12 boxes - PhoneArena",
+    "description": "Apple is sending out a survey to iPhone subscribers asking what they do with their chargers after they upgrade to a new iPhone; Apple is considering not including a charging brick with the 2020 ...",
+    "url": "https://www.phonearena.com/news/apple-expected-to-leave-charger-out-of-5g-iphone-12-boxes_id125722",
+    "urlToImage": "https://i-cdn.phonearena.com/images/article/125722-two/Apple-tries-to-get-users-ready-to-accept-the-lack-of-a-charger-in-the-5G-iPhone-12-boxes.jpg",
+    "publishedAt": "2020-07-04T02:30:00Z",
+    "content": "All content, features, and design are Copyright 2001-2020 PhoneArena.com.PhoneArena may receive a small commission if you purchase through affiliate links on this page.All rights reserved. Reproducti… [+88 chars]"
   },
   {
     "source": {
@@ -83,129 +57,142 @@
       "name": "Engadget"
     },
     "author": "",
-    "title": "The next 'Super Smash Bros. Ultimate' fighter is Min Min from 'Arms' - Engadget",
-    "description": "Fallout's Vault Boy is also joining the fray as a Mii Gunner costume.",
-    "url": "https://www.engadget.com/super-smash-bros-ultimate-arms-fighter-dlc-fallout-153230938.html",
-    "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2Fe46c4170-b498-11ea-aac7-e968d4e51594&client=amp-blogside-v2&signature=8392763b7fdb6f6c8dfcb14fe663295c33758516",
-    "publishedAt": "2020-06-23T00:40:13Z",
-    "content": "As ever with a new fighter, Sakurai gave an in-depth look at Min Min's abilities, and offered some tips on how to use her. You can control the way her arms bend when she attacks, with the A and B but… [+1077 chars]"
+    "title": "'Horizon Zero Dawn' hits Steam and Epic Games Store on August 7th - Engadget",
+    "description": "The PC version will have a bunch of visual upgrades.",
+    "url": "https://www.engadget.com/horizon-zero-dawn-pc-release-date-000029472.html",
+    "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F7666e6b0-bd50-11ea-9fef-44458d22ccf4&client=amp-blogside-v2&signature=2a0ba050b84bb20886a47931d085eb5cd22536cd",
+    "publishedAt": "2020-07-04T01:10:03Z",
+    "content": "Sony confirmed a few months back that Horizon Zero Dawn would no longer be a PlayStation 4 exclusive, and now we know when it’ll make its way to PC. Guerrilla Games’ hit action RPG will hit the Epic … [+479 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "CNET"
+      "name": "GameSpot"
     },
-    "author": "Mark Serrels",
-    "title": "Marvel's Avengers is coming to PS5 and Xbox Series X this holiday season - CNET",
-    "description": "Sony has also just announced it will upgrade you to the PS5 version for free if you get the PS4 version early.",
-    "url": "https://www.cnet.com/news/marvels-avengers-is-coming-to-ps5-and-xbox-series-x-this-holiday-season/",
-    "urlToImage": "https://cnet1.cbsistatic.com/img/TUgJVwf8RNU3AzW2BFA5-JNU1S4=/756x567/2020/06/22/3da33359-ae63-4f1c-b48a-4a5b6341749c/50034614552-67360b7523-h.jpg",
-    "publishedAt": "2020-06-23T00:09:35Z",
-    "content": "Marvel's Avengers allows you to play as multiple different characters from the Marvel universe.\r\nCrystal Dynamics\r\nThe upcoming Marvel's Avengers game caused a minor bit of controversy when it was an… [+1971 chars]"
+    "author": "Michael Higham",
+    "title": "Hyper Scape Is Ubisoft's Battle Royale With Arena Shooter Vibes - GameSpot",
+    "description": "Hyper Scape introduces fresh mechanics to help make it stand out in a crowded space, but is it enough?",
+    "url": "https://www.gamespot.com/articles/hyper-scape-is-ubisofts-battle-royale-with-arena-s/1100-6479262/",
+    "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1574/15747411/3693866-flagship-hyp-techtest-keyart-r14.jpg",
+    "publishedAt": "2020-07-04T01:04:00Z",
+    "content": "Ubisoft has entered the battle royale arena with the official reveal and technical test for Hyper Scape, and I know what you're probably thinking: another battle royale? In recent years we've seen so… [+7616 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "MarketWatch"
-    },
-    "author": "Therese Poletti",
-    "title": "Apple says more with its quiet actions than on the WWDC keynote stage - MarketWatch",
-    "description": "Apple sneaks news about a key change to its operating system into presentation while staying quiet on developer tumult",
-    "url": "https://www.marketwatch.com/story/apple-says-more-with-its-quiet-actions-than-on-the-wwdc-keynote-stage-2020-06-22",
-    "urlToImage": "https://s.marketwatch.com/public/resources/images/MW-IJ067_timcoo_ZG_20200622195303.jpg",
-    "publishedAt": "2020-06-22T23:57:48Z",
-    "content": "While under scrutiny by European regulators for its practices around the App Store and Apple Pay, Apple Inc. made a slight change Monday that could be a signal it is prepared to soften some of its lo… [+2792 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "YouTube"
+      "id": "google-news",
+      "name": "Google News"
     },
     "author": null,
-    "title": "Suicide Squad Game From Rocksteady Reportedly In The Works - IGN Daily Fix - IGN",
-    "description": "In today’s IGN Daily Fix, Sydnee Goodman talks about the evidence pointing to a new Suicide Squad game being worked on by Rocksteady and Crash Bandicoot 4 be...",
-    "url": "https://www.youtube.com/watch?v=sh0kau1xp7g",
-    "urlToImage": "https://i.ytimg.com/vi/sh0kau1xp7g/maxresdefault.jpg",
-    "publishedAt": "2020-06-22T23:52:23Z",
+    "title": "Catherine: Full Body Nintendo Switch Review - Is It Worth It? - Nintendo Life",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9R2RQd1F1Wk1fNFHSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2020-07-04T00:32:54Z",
     "content": null
   },
   {
     "source": {
       "id": null,
-      "name": "YouTube"
+      "name": "Shacknews"
+    },
+    "author": "Asif Khan",
+    "title": "Last of Us 2 voice actor Laura Bailey shares death threats on Twitter - Shacknews",
+    "description": "The voice of Abby from The Last of Us Part 2 is the target of online harassment. She took to Twitter in an attempt to stop this madness.",
+    "url": "https://www.shacknews.com/article/119026/last-of-us-2-voice-actor-laura-bailey-shares-death-threats-on-twitter",
+    "urlToImage": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/07/03/the-last-of-us-part-2-shacknews-abby-laura-bailey-harassment-twitter_feature.jpg",
+    "publishedAt": "2020-07-04T00:00:00Z",
+    "content": "The voice of Abby from The Last of Us Part 2 is the target of online harassment. She took to Twitter in an attempt to stop this madness.\r\nThe Internet can be a dark and sinister place. Users are give… [+1872 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "menshealth.com"
+    },
+    "author": "Katie Dupere",
+    "title": "Watch Dr. Pimple Popper Pop a 'Candy Corn' Cyst from a Patient's Head - Men's Health",
+    "description": "\"I would have never guessed that much contents and a massive sac was in that little bump!\"",
+    "url": "https://www.menshealth.com/health/a33143157/dr-pimple-popper-candy-corn-cyst/",
+    "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/candy-corn-royalty-free-image-1593814404.jpg?crop=1.00xw:0.753xh;0,0.152xh&resize=1200:*",
+    "publishedAt": "2020-07-03T23:12:23Z",
+    "content": "<ul><li>In a new Instagram video, Dr. Pimple Popper pops out a pretty sweet pilar cyst from a patient’s head.</li><li>During the removal, the cyst splits open, revealing what Dr. Lee calls \"candy cor… [+1832 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gamasutra"
+    },
+    "author": "Chris Kerr",
+    "title": "Ubisoft exec Maxime Beland has resigned after harassment and assault allegations - Gamasutra",
+    "description": "Ubisoft vice president of editorial Maxime Beland has resigned from his role after being accused of sexual harassment and assault.",
+    "url": "https://www.gamasutra.com/view/news/365922/Ubisoft_exec_Maxime_Beland_has_resigned_after_harassment_and_assault_allegations.php",
+    "urlToImage": "http://www.gamasutra.com/db_area/images/news/2020/Jul/365922/ubisoft-thumb.jpg",
+    "publishedAt": "2020-07-03T23:00:16Z",
+    "content": "Ubisoft vice president of editorial Maxime Beland has resigned from his role after being accused of sexual harassment and assault.\r\nThe company also revealed that Beland's fellow editorial vice presi… [+2303 chars]"
+  },
+  {
+    "source": {
+      "id": "ign",
+      "name": "IGN"
+    },
+    "author": "Shawn Saris",
+    "title": "Daily Deals: Early 4th of July Holiday Sales, Discounted Gaming Laptops and More - IGN",
+    "description": "Best Buy is having a giant 4th of July Sale, so if there's something you need, they likely have it and for cheaper than everywhere else!",
+    "url": "https://www.ign.com/articles/daily-deals-early-4th-of-july-holiday-sales-discounted-gaming-laptops-and-more",
+    "urlToImage": "https://assets1.ignimgs.com/2020/07/03/frithumb1-1593808971706.jpg?width=1280",
+    "publishedAt": "2020-07-03T22:35:05Z",
+    "content": "It's a holiday weekend, so take a look at what's on sale and treat yourself!"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CarScoops"
     },
     "author": null,
-    "title": "Crash Bandicoot 4 Interview: New Details, Release Date Interview, And More - GameSpot",
-    "description": "We chat with Toys For Bob's design producer Lou Studdert about the new Crash Bandicoot game, discussing the new art style, playing as Crash and Coco, and gam...",
-    "url": "https://www.youtube.com/watch?v=sHS3ps6gzA8",
-    "urlToImage": "https://i.ytimg.com/vi/sHS3ps6gzA8/maxresdefault.jpg",
-    "publishedAt": "2020-06-22T23:30:03Z",
-    "content": "We chat with Toys For Bob's design producer Lou Studdert about the new Crash Bandicoot game, discussing the new art style, playing as Crash and Coco, and gameplay changes such as collecting masks tha… [+775 chars]"
+    "title": "2022 BMW 2-Series Coupe Spied, Will Remain Rear-Wheel Drive - Carscoops",
+    "description": "The upcoming 2-Series Coupe could spawn an M2 with 420+ hp.",
+    "url": "https://www.carscoops.com/2020/07/2022-bmw-2-series-coupe-spied-will-remain-rear-wheel-drive/",
+    "urlToImage": "https://www.carscoops.com/wp-content/uploads/2020/07/2022-BMW-2-Series-Coupe-Header.jpg",
+    "publishedAt": "2020-07-03T22:31:00Z",
+    "content": "The redesigned BMW 4-Series Coupe went into production earlier this month, and now the company is turning its attention to the next-generation 2-Series Coupe.\r\nCaught undergoing testing in Mexico, th… [+1619 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Cult of Mac"
+      "name": "Collider.com"
     },
-    "author": "https://www.facebook.com/lewiswallace",
-    "title": "macOS 11 Big Sur ushers in sweeping changes to Mac - Cult of Mac",
-    "description": "The next Mac operating system, called macOS Big Sur, will bring the biggest design overhaul in nearly two decades, Apple said Monday. In addition to the",
-    "url": "https://www.cultofmac.com/714751/macos-11-big-sur-wwdc-2020-keynote/",
-    "urlToImage": "https://cdn.cultofmac.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-22-at-11.08.51-AM-scaled.jpg",
-    "publishedAt": "2020-06-22T23:01:07Z",
-    "content": "The next Mac operating system, called macOS Big Sur, will bring the biggest design overhaul in nearly two decades, Apple said Monday. In addition to the massive visual upgrades, MacOS Big Sur will us… [+6360 chars]"
+    "author": null,
+    "title": "Iron Man VR Review: Become a Badass Marvel Superhero with the PSVR - Collider.com",
+    "description": "Dorian Parks reviews Marvel's Iron Man VR, the latest VR game for the PSVR that hails from Marvel, Sony, and Camouflaj. Does it live up to the hype?",
+    "url": "https://collider.com/iron-man-vr-review/",
+    "urlToImage": "https://cdn.collider.com/wp-content/uploads/2020/07/iron-man-vr-images-social.png",
+    "publishedAt": "2020-07-03T22:20:43Z",
+    "content": "Marvels Iron Man VR game is finally here. The highly anticipated virtual reality game has been one of my most anticipated games since I got to test it out early last year. Because I had such glowing … [+5690 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "MacRumors"
+      "name": "GameSpot"
     },
-    "author": "Joe Rossignol",
-    "title": "List of Macs Compatible With macOS Big Sur - MacRumors",
-    "description": "Apple today previewed macOS Big Sur with redesigned interfaces such as the Dock and Notification Center, the addition of a Control Center, several...",
-    "url": "https://www.macrumors.com/2020/06/22/macos-big-sur-compatible-macs/",
-    "urlToImage": "https://images.macrumors.com/article-new/2020/06/macos-big-sur-desktop.jpg",
-    "publishedAt": "2020-06-22T22:48:42Z",
-    "content": "Apple today previewed macOS Big Sur with redesigned interfaces such as the Dock and Notification Center, the addition of a Control Center, several improvements to core apps like Safari and Messages, … [+768 chars]"
+    "author": "Kallie Plagge",
+    "title": "All Mermaid DIYs And Clothing Items In Animal Crossing: New Horizons - GameSpot",
+    "description": "Here's every mermaid DIY and item you can get from Animal Crossing: New Horizons' new special visitor, Pascal.",
+    "url": "https://www.gamespot.com/articles/all-mermaid-diys-and-clothing-items-in-animal-cros/1100-6479329/",
+    "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1575/15759911/3694504-3694501-mermaid.jpg",
+    "publishedAt": "2020-07-03T22:11:00Z",
+    "content": "Animal Crossing: New Horizons' summer update has arrived, bringing with it a new visitor, Pascal. In exchange for a scallop--one of the 40 new sea creatures you can catch while diving--Pascal will gi… [+1181 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Gizmodo.com"
+      "name": "Notebookcheck.net"
     },
-    "author": "Andrew Liszewski",
-    "title": "A Special Effects Company Built a Robotic Dolphin so Aquariums Won't Have to Keep Real Ones in Captivity - Gizmodo",
-    "description": "You don’t need to have seen documentaries like The Cove to feel uneasy about whales, sharks, and dolphins being held captive in tiny tanks at aquariums and theme parks. But instead of eliminating those experiences completely, which can help educate the public…",
-    "url": "https://gizmodo.com/a-special-effects-company-built-a-robotic-dolphin-so-aq-1844119597",
-    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/hfspavnujg8vmoovtsfs.gif",
-    "publishedAt": "2020-06-22T22:36:52Z",
-    "content": "You dont need to have seen documentaries like The Cove to feel uneasy about whales, sharks, and dolphins being held captive in tiny tanks at aquariums and theme parks. But instead of eliminating thos… [+3525 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Android Central"
-    },
-    "author": "Jeramy Johnson",
-    "title": "7 things Android's Wear OS should steal from watchOS 7 - Android Central",
-    "description": "We've long accused Google of neglecting Wear OS, and now we've seen Apple raise the stakes yet again. Here are seven features that Google could steal from watchOS 7 to make Wear OS better, and more competitive.",
-    "url": "https://www.androidcentral.com/7-things-wear-os-should-steal-apples-watchos-7",
-    "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/09/galaxy-watch-apple-watch.jpg",
-    "publishedAt": "2020-06-22T22:19:43Z",
-    "content": "Source: Android Central\r\nAt this year's online-only WWDC conference, Apple unveiled several updates and new features to watchOS, many of which I think would be welcome new additions to or enhancement… [+12852 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Vox"
-    },
-    "author": "Sara Morrison",
-    "title": "iOS 14 and macOS Big Sur help users control who’s tracking them online - Vox.com",
-    "description": "The company’s new operating systems want you to know — and control — who’s watching you online.",
-    "url": "https://www.vox.com/recode/2020/6/22/21299398/apple-ios14-big-sur-privacy-wwdc-2020",
-    "urlToImage": "https://cdn.vox-cdn.com/thumbor/XE7x4ZYDb0RS6qF0NXX0j5rHtyM=/0x0:1960x1026/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20047658/timcook.jpg",
-    "publishedAt": "2020-06-22T21:28:23Z",
-    "content": "Apple is cracking down on what it allows other companies to know about you. The company announced on Monday that iOS 14 and macOS Big Sur will feature a host of improved privacy features that will gi… [+6639 chars]"
+    "author": "Daniel R Deakin",
+    "title": "PS5 size comparison: PlayStation 5 towers over the Xbox Series X and even looks down on the king-sized PS3 - Notebookcheck.net",
+    "description": "New attempts at estimating the PS5’s measurements have surfaced recently, with a general picture starting to form in regard to the size of Sony’s next-gen console. Using the disc drive and USB ports as reference points, it’s clear to see that the PlayStation …",
+    "url": "https://www.notebookcheck.net/PS5-size-comparison-PlayStation-5-towers-over-the-Xbox-Series-X-and-even-looks-down-on-the-king-sized-PS3.479012.0.html",
+    "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/teaser_ps5_xbox.jpg",
+    "publishedAt": "2020-07-03T21:59:19Z",
+    "content": "Working For Notebookcheck\r\nAre you a techie who knows how to write? Then join our Team! Especially English native speakers welcome!\r\nCurrently wanted: German-English-Translator - Details here\r\nPlenty… [+1154 chars]"
   },
   {
     "source": {
@@ -213,50 +200,63 @@
       "name": "9to5Mac"
     },
     "author": null,
-    "title": "Apple announces tvOS 14 with Home app, audio sharing, multiple user support for Apple Arcade - 9to5Mac",
-    "description": "Along with unveiling iOS 14, iPadOS 14, and more today, Apple has announced tvOS 14 with a number of new features and improvements including a brand new Home app experience called “Home view,” audio sharing, and more. Last year with tvOS 13, Apple TV gained a…",
-    "url": "https://9to5mac.com/2020/06/22/apple-announces-tvos-14-new-home-app/",
-    "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2020/06/wwdc-2020-14.07.33-PM.png",
-    "publishedAt": "2020-06-22T21:10:55Z",
-    "content": "Along with unveiling iOS 14, iPadOS 14, and more today, Apple has announced tvOS 14 with a number of new features and improvements including a brand new Home app experience called “Home view,” audio … [+1776 chars]"
+    "title": "iOS 14 exposes LinkedIn app reading users’ clipboards in background, company says it’s a bug - 9to5Mac",
+    "description": "We recently covered that TikTok was caught reading users’ clipboards on iPhone and iPad thanks to the new privacy features of iOS 14. This week, iOS 14 users also noticed that the LinkedIn app is copying and pasting from the clipboard in the background for no…",
+    "url": "https://9to5mac.com/2020/07/03/ios-14-exposes-linkedin-app-reading-users-clipboards-in-background-company-says-its-a-bug/",
+    "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2018/07/linkedin-logo.jpg?quality=82&strip=all",
+    "publishedAt": "2020-07-03T21:42:03Z",
+    "content": "We recently covered that TikTok was caught reading users’ clipboards on iPhone and iPad thanks to the new privacy features of iOS 14. This week, iOS 14 users also noticed that the LinkedIn app is cop… [+1594 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "DualShockers"
-    },
-    "author": "Lou Contaldi",
-    "title": "The Order: 1886 Developer Ready At Dawn Acquired By Facebook - DualShockers",
-    "description": "In a second major acquisition, Facebook reveals that they have acquired Ready At Dawn Studios - creators of Lone Echo and The Order: 1886.",
-    "url": "https://www.dualshockers.com/ready-at-dawn-facebook-the-order-1886-lone-echo/",
-    "urlToImage": "https://cdn3.dualshockers.com/wp-content/uploads/2020/01/The-Order-1886-1887-rumor-news-ps4-ps5-xbox-one-series-x.png",
-    "publishedAt": "2020-06-22T21:09:25Z",
-    "content": null
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "ExtremeTech"
-    },
-    "author": "Joel Hruska",
-    "title": "Samsung Blu-ray Players Are Boot Looping, Possibly Over Bad SSL Certificates - ExtremeTech",
-    "description": "Large numbers of Samsung Blu-ray players all quit working on June 19. The culprit may be an expired SSL certificate given the breadth of systems affected.",
-    "url": "https://www.extremetech.com/electronics/311949-many-samsung-blu-ray-players-are-boot-looping",
-    "urlToImage": "https://www.extremetech.com/wp-content/uploads/2020/06/Blu-ray-PCMag.jpg",
-    "publishedAt": "2020-06-22T20:41:58Z",
-    "content": "Thousands of end-users are reporting problems with Samsung Blu-ray players as of Monday. The problems began without warning on Friday and the glitch appears to have affected all of the players at the… [+2393 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "YouTube"
+      "id": "google-news",
+      "name": "Google News"
     },
     "author": null,
-    "title": "Apple WWDC 2020 Live Post-Show Recap - Engadget",
-    "description": "Join us right here after the event for our live discussion of Apple's 2020 Worldwide Developers Conference.",
-    "url": "https://www.youtube.com/watch?v=8clF2z-B_iM",
-    "urlToImage": "https://i.ytimg.com/vi/8clF2z-B_iM/maxresdefault.jpg",
-    "publishedAt": "2020-06-22T20:30:54Z",
+    "title": "Samsung Galaxy Watch 3 Leaks: Specs, Sizes + More! - Android Central",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Q2hoemtwVzQ0VGfSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2020-07-03T21:02:02Z",
     "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GamesIndustry.biz"
+    },
+    "author": null,
+    "title": "Nintendo condemns abuse as allegations spread across Smash Bros. community - GamesIndustry.biz",
+    "description": "Platform holder is \"deeply disturbed\" as more than 50 players accused of a variety of sexual offences",
+    "url": "https://www.gamesindustry.biz/articles/2020-07-03-nintendo-condemns-abuse-as-allegations-spread-across-smash-bros-community",
+    "urlToImage": "https://images.eurogamer.net/2020/articles/2020-07-03-21-02/nintendo_japan.jpg",
+    "publishedAt": "2020-07-03T20:09:41Z",
+    "content": "Share this article\r\nCompanies in this article\r\nNintendo\r\nNintendo has spoken out against the \"impermissible\" behaviour by select members of the competitive community around the Smash Bros. series, fo… [+2470 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "MacRumors Giveaway: Win a Trio Wireless Charging Pad From Satechi - MacRumors",
+    "description": "For this week's giveaway, we've teamed up with Satechi to offer MacRumors readers a chance to win a Trio Wireless Charging Pad that can...",
+    "url": "https://www.macrumors.com/2020/07/03/macrumors-giveaway-win-a-trio-wireless-charging-pad-from-satechi/",
+    "urlToImage": "https://images.macrumors.com/article-new/2020/07/satechitrio1.jpg",
+    "publishedAt": "2020-07-03T20:09:24Z",
+    "content": "For this week's giveaway, we've teamed up with Satechi to offer MacRumors readers a chance to win a Trio Wireless Charging Pad that can wirelessly charge the iPhone, Apple Watch, and AirPods all at o… [+2896 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GameSpot"
+    },
+    "author": "Chris Pereira",
+    "title": "Dr Disrespect's Twitch Ban--A Week Later And We Still Don't Know Why - GameSpot",
+    "description": "Streamer Dr Disrespect has issued a statement on his ban from livestreaming, but the cause remains unspecified.",
+    "url": "https://www.gamespot.com/articles/dr-disrespects-twitch-bana-week-later-and-we-still/1100-6479050/",
+    "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1578/15789366/3691900-dr-disresepct-1190579-1280x0.jpeg",
+    "publishedAt": "2020-07-03T20:03:00Z",
+    "content": "High-profile Twitch streamer Herschel \"Guy\" Beahm IV (better known as Dr Disrespect) has been banned from the livestreaming platform yet again. And this time, it seems to be permanent, rather than a … [+5790 chars]"
   }
 ]
